@@ -1,6 +1,6 @@
-# Crypto Media Network Coin Overview: vision, strategy and platform components
+# Media Block Network Coin Overview: vision, strategy and platform components
 
-Crypto Media Network Coin is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).&#x20;
+Media Block Network Coin is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).&#x20;
 
 The project was launched in 2019 by a team formerly involved in building the Colu project aimed at bringing local currencies to the blockchain.&#x20;
 
@@ -28,9 +28,9 @@ This is achieved by providing clients with **convenient, mobile-first tools for 
 
 ### Platform Components
 
-The Crypto Media Network Coin platform has three main components:&#x20;
+The Media Block Network Coin platform has three main components:&#x20;
 
-1\) **The Crypto Media Network Coin blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the Crypto Media Network Coin platform and ecosystem.&#x20;
+1\) **The Media Block Network Coin blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the Media Block Network Coin platform and ecosystem.&#x20;
 
 2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases.&#x20;
 

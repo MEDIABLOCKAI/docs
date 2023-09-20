@@ -1,2 +1,2 @@
-# Things you can do on CMN Blockchain
+# Things you can do on MBC Blockchain
 

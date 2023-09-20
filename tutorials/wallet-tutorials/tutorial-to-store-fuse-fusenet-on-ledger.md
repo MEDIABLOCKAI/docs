@@ -1,10 +1,10 @@
 ---
 description: >-
   This tutorial explains how to use your Ledger on MyEtherWallet (MEW) so that
-  you can view and transfer CMN on CMNnet.
+  you can view and transfer MBC on MBCnet.
 ---
 
-# Tutorial to store CMN\(CMNnet\) on Ledger
+# Tutorial to store MBC\(MBCnet\) on Ledger
 
 
 
@@ -24,7 +24,7 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](../../.gitbook/assets/3%20%284%29.png)
 
-**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“CMN Blockchain network”** and then select the Wallet address you would like to Send/Receive **CMN** tokens, accept the terms and conditions and click on **“Access my Wallet”.**
+**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“MBC Blockchain network”** and then select the Wallet address you would like to Send/Receive **MBC** tokens, accept the terms and conditions and click on **“Access my Wallet”.**
 
 ![](../../.gitbook/assets/4%20%285%29.png)
 
@@ -32,17 +32,17 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](../../.gitbook/assets/6%20%284%29.png)
 
-**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on CMN Blockchain network, you can see your CMN Blockchain address \(CMNnet\), balance, etc.
+**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on MBC Blockchain network, you can see your MBC Blockchain address \(MBCnet\), balance, etc.
 
 ![](../../.gitbook/assets/7%20%283%29.png)
 
-Now let’s learn how to Send/Receive **CMN** on MEW.
+Now let’s learn how to Send/Receive **MBC** on MEW.
 
-**To receive CMN:** Once completing Steps 1-5, Click **“Copy address”** button just below your **“Address”** \(Public key\) as highlighted below. This is the address to which you can receive CMN and can be viewed on your MEW once confirmed on-chain.
+**To receive MBC:** Once completing Steps 1-5, Click **“Copy address”** button just below your **“Address”** \(Public key\) as highlighted below. This is the address to which you can receive MBC and can be viewed on your MEW once confirmed on-chain.
 
 ![](../../.gitbook/assets/8%20%283%29.png)
 
-**To send CMN:** Click on **“Send Transaction”** and when you have **CMN** in your wallet you should be able to select **“CMN”** from the **“Type”** drop down. Enter the **“Amount”** you want to send as well as the **“To address”** to which you want to transfer **CMN**. Once you have entered all the details click on **“Send Transaction”.** Now you should get a popup on your ledger device to approve the transaction. After approving physically on the Ledger device the final confirmation screen will appear showing all the details
+**To send MBC:** Click on **“Send Transaction”** and when you have **MBC** in your wallet you should be able to select **“MBC”** from the **“Type”** drop down. Enter the **“Amount”** you want to send as well as the **“To address”** to which you want to transfer **MBC**. Once you have entered all the details click on **“Send Transaction”.** Now you should get a popup on your ledger device to approve the transaction. After approving physically on the Ledger device the final confirmation screen will appear showing all the details
 
 ![](../../.gitbook/assets/9%20%283%29.png)
 
@@ -50,5 +50,5 @@ Now let’s learn how to Send/Receive **CMN** on MEW.
 
 Double check all the details, click on **“Confirm and Send”** and wait for your transaction to be confirmed on-chain.
 
-We hope this tutorial helped you to learn how to connect your Ledger to MEW and send/receive **CMN on CMNnet**. Until next time friends!
+We hope this tutorial helped you to learn how to connect your Ledger to MEW and send/receive **MBC on MBCnet**. Until next time friends!
 

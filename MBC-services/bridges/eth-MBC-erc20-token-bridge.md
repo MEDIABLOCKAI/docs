@@ -1,10 +1,10 @@
 ---
 description: >-
-  Crypto Media Network Coin Multi Crypto Media Network20 bridge is used to relay the Crypto Media Network20 tokens between Crypto Media Network Coin and
+  Media Block Network Coin Multi Media Block Network20 bridge is used to relay the Media Block Network20 tokens between Media Block Network Coin and
   Ethereum networks.
 ---
 
-# Multi ERC-20: Ethereum ↔ Crypto Media Network Coin
+# Multi ERC-20: Ethereum ↔ Media Block Network Coin
 
 ## Architecture Overview
 
@@ -12,35 +12,35 @@ This bridge is two layer bridge. In the base level the  Arbitrary Message Bridge
 
 ## Contracts
 
-Home side of the bridge on the Crypto Media Network Coin network: [0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03](https://cmnscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03)
+Home side of the bridge on the Media Block Network Coin network: [0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03](https://MBCscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03)
 
 Foreign side of the bridge on the Ethereum network: [0xf301d525da003e874DF574BCdd309a6BF0535bb6](https://etherscan.io/address/0xf301d525da003e874DF574BCdd309a6BF0535bb6)
 
-Home side of the AMB bridge on the Crypto Media Network Coin network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://cmnscan.com/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
+Home side of the AMB bridge on the Media Block Network Coin network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://MBCscan.com/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
 
 Foreign side of the AMB bridge on the Ethereum network: [0x63C47c296B63bE888e9af376bd927C835014039f](https://etherscan.io/address/0x63C47c296B63bE888e9af376bd927C835014039f)
 
 ## Source Code
 
-{% embed url="https://github.com/Crypto Media Networkio/tokenbridge-contracts" %}
+{% embed url="https://github.com/Media Block Networkio/tokenbridge-contracts" %}
 
 ## How to use
 
-Any Crypto Media Network20 token can be bridged for Ethereum to the Crypto Media Network Coin. If the token is relayed for the first time. A bridged token, paired with the original token, will be created on the Crypto Media Network Coin network. 
+Any Media Block Network20 token can be bridged for Ethereum to the Media Block Network Coin. If the token is relayed for the first time. A bridged token, paired with the original token, will be created on the Media Block Network Coin network. 
 
 To send token from the Ethereum network:
 
-1. Approve the Crypto Media Network20 tokens to be spent by the Foreign Crypto Media Network20 bridge. 
+1. Approve the Media Block Network20 tokens to be spent by the Foreign Media Block Network20 bridge. 
 2. Call relayTokens function on the bridge contract
 
-the `relayTokens` method will lock the Crypto Media Network20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Crypto Media Network Coin Crypto Media Network20 token will be sent from the home bridge contract.
+the `relayTokens` method will lock the Media Block Network20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Media Block Network Coin Media Block Network20 token will be sent from the home bridge contract.
 
-To send tokens from Crypto Media Network Coin network
+To send tokens from Media Block Network Coin network
 
-1. Approve the Crypto Media Network20 tokens to be spent by the Home Crypto Media Network20 bridge. 
+1. Approve the Media Block Network20 tokens to be spent by the Home Media Block Network20 bridge. 
 2. Call `relayTokens` function on the bridge contract
 
-the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired Crypto Media Network20 token will be sent from the foreign bridge contract.
+the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired Media Block Network20 token will be sent from the foreign bridge contract.
 
 
 

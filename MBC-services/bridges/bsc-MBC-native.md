@@ -1,10 +1,10 @@
 ---
 description: >-
-  Crypto Media Network Coin native bridge is used to relay the Crypto Media Network Coin native token between Crypto Media Network Coin and
+  Media Block Network Coin native bridge is used to relay the Media Block Network Coin native token between Media Block Network Coin and
   Binance Smart Chain (BSC) networks
 ---
 
-# Crypto Media Network Coin Native: BSC ↔ Crypto Media Network Coin
+# Media Block Network Coin Native: BSC ↔ Media Block Network Coin
 
 ## Architecture Overview
 
@@ -12,32 +12,32 @@ This bridge is two layer bridge. In the base level the Arbitrary Message Bridge 
 
 ## Contracts
 
-Home side of the bridge on the Crypto Media Network Coin network: [0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD](https://cmnscan.com/address/0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD/transactions)
+Home side of the bridge on the Media Block Network Coin network: [0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD](https://MBCscan.com/address/0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD/transactions)
 
 Foreign side of the bridge on the BSC network: [0x61A8287fA7a9f4D10F4699BC2aE77f962DC508B6](https://etherscan.io/address/0x61A8287fA7a9f4D10F4699BC2aE77f962DC508B6)
 
-Crypto Media Network Coin token on the BSC network: [0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3](https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3)
+Media Block Network Coin token on the BSC network: [0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3](https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3)
 
-Home side of the AMB bridge on the Crypto Media Network Coin network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://cmnscan.com/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)
+Home side of the AMB bridge on the Media Block Network Coin network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://MBCscan.com/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)
 
 Foreign side of the AMB bridge on the BSC network: [0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6](https://bscscan.com/address/0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6)
 
 ## Source Code
 
-[https://github.com/Crypto Media Networkio/tokenbridge-contracts](https://github.com/Crypto Media Networkio/tokenbridge-contracts)
+[https://github.com/Media Block Networkio/tokenbridge-contracts](https://github.com/Media Block Networkio/tokenbridge-contracts)
 
 ## How to use
 
-To send token from the Crypto Media Network Coin network:
+To send token from the Media Block Network Coin network:
 
-Send native Crypto Media Network Coin token to the home bridge contract. Then you receive an equal amount of the Crypto Media Network Coin token on the BSC network, sent from the foreign bridge contract.
+Send native Media Block Network Coin token to the home bridge contract. Then you receive an equal amount of the Media Block Network Coin token on the BSC network, sent from the foreign bridge contract.
 
 To send token from the BSC network:
 
-1. Approve the Crypto Media Network Coin Crypto Media Network20 tokens to be spent by the Foreign Crypto Media Network20 bridge. 
+1. Approve the Media Block Network Coin Media Block Network20 tokens to be spent by the Foreign Media Block Network20 bridge. 
 2. Call relayTokens function on the bridge contract
 
-the `relayTokens` method will lock the Crypto Media Network20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Crypto Media Network Coin Crypto Media Network20 token will be released from the home bridge contract on BSC.
+the `relayTokens` method will lock the Media Block Network20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Media Block Network Coin Media Block Network20 token will be released from the home bridge contract on BSC.
 
 #### 
 

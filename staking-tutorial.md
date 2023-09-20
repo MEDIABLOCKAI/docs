@@ -1,16 +1,16 @@
 ---
-description: This tutorial will explain how to delegate/stake/unstake your CMN.
+description: This tutorial will explain how to delegate/stake/unstake your MBC.
 ---
 
 # Staking tutorial
 
-Note: You can only stake CMN which is on CMN Blockchain network. Please make sure you have changed into CMN Blockchain network in Metamask while doing any transactions on staking UI. 
+Note: You can only stake MBC which is on MBC Blockchain network. Please make sure you have changed into MBC Blockchain network in Metamask while doing any transactions on staking UI. 
 
-How to Stake CMN:
+How to Stake MBC:
 
 **Step 1:**
 
-Navigate to staking.cmnscan.com and login to your wallet through metamask. Make sure you are on CMN Blockchain network. If you are not please follow the instructions [**here**](https://doc.cmnscan.com/the-CMN-studio/getting-started/how-to-add-CMN-to-your-metamask).
+Navigate to staking.MBCscan.com and login to your wallet through metamask. Make sure you are on MBC Blockchain network. If you are not please follow the instructions [**here**](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
 
 ![](.gitbook/assets/0%20%284%29.png)
 
@@ -35,11 +35,11 @@ You should see the **“stake**” option when you hover over the Validator you 
 
 ![](.gitbook/assets/2%20%287%29.png)
 
-You will also see the APY on staking when you enter the amount of CMN you want to stake. You can see the staked amount right next to the validator name to whom you have delegated you stake to. 
+You will also see the APY on staking when you enter the amount of MBC you want to stake. You can see the staked amount right next to the validator name to whom you have delegated you stake to. 
 
 ![](.gitbook/assets/3%20%286%29.png)
 
-**How to Unstake CMN:**
+**How to Unstake MBC:**
 
 Click on the Validator name and you should see the validator name with address on the right hand side. Click on **“unstake”** and enter the amount you want to unstake and click on **“unstake”**. Confirm the transaction on Metamask and wait for the on-chain confirmation. Once the transaction is confirmed the unstaked amount is transferred back to your address.
 

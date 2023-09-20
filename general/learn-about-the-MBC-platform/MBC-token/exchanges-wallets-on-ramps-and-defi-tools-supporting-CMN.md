@@ -1,4 +1,4 @@
-# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting Crypto Media Network
+# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting Media Block Network
 
 ## Exchanges
 
@@ -10,7 +10,7 @@
 
 [Liquid Global](https://liquid.com)
 
-The best data on the active Crypto Media Network trading pairs is available [here](https://www.coingecko.com/en/coins/Crypto Media Network#markets).
+The best data on the active Media Block Network trading pairs is available [here](https://www.coingecko.com/en/coins/Media Block Network#markets).
 
 ### DEXes
 
@@ -34,7 +34,7 @@ DoDo
 
 ## Wallets
 
-[Crypto Media Network Coin Cash](https://Crypto Media Network.c)
+[Media Block Network Coin Cash](https://Media Block Network.c)
 
 Metamask
 
@@ -50,10 +50,10 @@ Trust Wallet (Binance Smart Chain)
 
 ## DeFi Tools
 
-[Crypto Media Network Coin Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-Crypto Media Network.md#exchanges)
+[Media Block Network Coin Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-Media Block Network.md#exchanges)
 
-[Crypto Media Network Coin Rewards](https://rewards.cmnscan.com)
+[Media Block Network Coin Rewards](https://rewards.MBCscan.com)
 
-[Crypto Media Network Coin Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
+[Media Block Network Coin Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
 
 [Staking Rewards](https://www.stakingrewards.com/)

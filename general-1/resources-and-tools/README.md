@@ -2,9 +2,9 @@
 
 ### DApp Management & Development Tools
 
-[The Graph](https://thegraph.com) supports CMN Blockchain data indexing, quierying and display.
+[The Graph](https://thegraph.com) supports MBC Blockchain data indexing, quierying and display.
 
-[Remix IDE](https://remix-project.org/): It's easy to deploy on CMN Blockchain with Remix, simply choose injected web3 and add the CMN Blockchain custom RPC to your Metamask.
+[Remix IDE](https://remix-project.org/): It's easy to deploy on MBC Blockchain with Remix, simply choose injected web3 and add the MBC Blockchain custom RPC to your Metamask.
 
 [JustSmartContracts](https://justsmartcontracts.dev/): another smart contract deployment tool for EVM chains.&#x20;
 

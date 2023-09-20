@@ -1,18 +1,18 @@
 ---
-description: Becoming a CMN Coin validator in a few simple steps
+description: Becoming a MBC Coin validator in a few simple steps
 ---
 
 # Getting started as a validator
 
 ## Pre-requirements
 
-In order to be a CMN Coin validator, you first must see that you meet the pre-requirements:
+In order to be a MBC Coin validator, you first must see that you meet the pre-requirements:
 
-* You know what it means to be a Crypto Media Network Coin validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
-* You have at least 100K Crypto Media Network tokens or you will have an aggregated delegation of at least 100K Crypto Media Network tokens \(you can purchase Crypto Media Network token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
+* You know what it means to be a Media Block Network Coin validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
+* You have at least 100K Media Block Network tokens or you will have an aggregated delegation of at least 100K Media Block Network tokens \(you can purchase Media Block Network token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
 * You have an always-on hardware that meets the pre-requisites - [Running a validator node](run-your-own-validator.md#pre-requisites)
 
-## How to become a Crypto Media Network Coin validator
+## How to become a Media Block Network Coin validator
 
 To quickly become a validator, follow this steps:
 
@@ -20,10 +20,10 @@ To quickly become a validator, follow this steps:
 
 ```text
 mkdir c-validatormn
-cd cmn-validator
-wget -O quickstart.sh https://raw.githubusercontent.com/cmn Coin/master/scripts/quickstart.sh
+cd MBC-validator
+wget -O quickstart.sh https://raw.githubusercontent.com/MBC Coin/master/scripts/quickstart.sh
 chmod 777 quickstart.sh
-wget -O .env https://raw.githubusercontent.com/cmn Coin/master/scripts/examples/.env.validator.example
+wget -O .env https://raw.githubusercontent.com/MBC Coin/master/scripts/examples/.env.validator.example
 ```
 
 ### Step 2: Update the \`.env\` file:
@@ -42,32 +42,32 @@ set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
 ```
 
 {% hint style="success" %}
-After running the script successfully, you will see your address in the [health](https://status.cmn.io/) site.
+After running the script successfully, you will see your address in the [health](https://status.MBC.io/) site.
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
 
 #### Stake
 
-To stake cmn tokens, all you should do is send your Crypto Media Network tokens to the Crypto Media Network Coin Consensus contract address over the CMN Coin network from the validator address.
+To stake MBC tokens, all you should do is send your Media Block Network tokens to the Media Block Network Coin Consensus contract address over the MBC Coin network from the validator address.
 
 {% hint style="success" %}
-The CMN  Coin Consensus contract address: `0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95`
+The MBC  Coin Consensus contract address: `0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95`
 {% endhint %}
 
-The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to CMN Coin and send the Crypto Media Network tokens \(native tokens\) to the Consensus contract address.
+The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to MBC Coin and send the Media Block Network tokens \(native tokens\) to the Consensus contract address.
 
 {% hint style="info" %}
 You can find your key-store \(containing your private key\) and the password for the created account in:
 
-`$HOME/cmnnet/config/keys/cmn/UTC--xxxx`
+`$HOME/MBCnet/config/keys/MBC/UTC--xxxx`
 
-`$HOME/cmn/config/pass.pwd`
+`$HOME/MBC/config/pass.pwd`
 {% endhint %}
 
 #### Delegate
 
-To delegate, just send the CMN tokens from any address to the Consensus contract address with the data: `0x5c19a95c000000000000000000000000<address without 0x>`.
+To delegate, just send the MBC tokens from any address to the Consensus contract address with the data: `0x5c19a95c000000000000000000000000<address without 0x>`.
 
 {% hint style="success" %}
 Example:
@@ -85,7 +85,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://status.cmn.io/) site and on the [explorer](https://cmn.io) site.
+You can see that you are validating both in the [health](https://status.MBC.io/) site and on the [explorer](https://MBC.io) site.
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!

@@ -1,10 +1,10 @@
 ---
 description: >-
   This tutorial explains how to use your ledger on MEW so that you can vie and
-  transfer Crypto Media Network.
+  transfer Media Block Network.
 ---
 
-# Ledger tutorial for Crypto Media Network
+# Ledger tutorial for Media Block Network
 
 This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethereum app version on Ledger Nano S was 1.3.7.
 
@@ -22,7 +22,7 @@ This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ether
 
 ![](../.gitbook/assets/4%20%284%29.png)
 
-**Step 4:** MyEtherWallet will load all the Ethereum wallets present on your Ledger device. Please select the Wallet you would like to Send/Receive Crypto Media Network tokens, accept the terms and conditions and click on **“Access my Wallet”.**
+**Step 4:** MyEtherWallet will load all the Ethereum wallets present on your Ledger device. Please select the Wallet you would like to Send/Receive Media Block Network tokens, accept the terms and conditions and click on **“Access my Wallet”.**
 
 ![](../.gitbook/assets/5.png)
 
@@ -30,17 +30,17 @@ This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ether
 
 ![](../.gitbook/assets/6%20%282%29.png)
 
-**Step 6: Crypto Media Network** is already present in the default list of tokens on MEW. You just have to search **Crypto Media Network** on the right hand side \(as shown below\) to view your **Crypto Media Network** balance on that particular Ethereum address.
+**Step 6: Media Block Network** is already present in the default list of tokens on MEW. You just have to search **Media Block Network** on the right hand side \(as shown below\) to view your **Media Block Network** balance on that particular Ethereum address.
 
 ![](../.gitbook/assets/7%20%281%29.png)
 
-Now let’s learn how to Send/Receive **Crypto Media Network** on MEW.
+Now let’s learn how to Send/Receive **Media Block Network** on MEW.
 
-**To receive Crypto Media Network:** Once completing Steps 1-6, Click **“Copy address”** button just below your “Address” \(Public key\) as highlighted below. This is the address to which you can receive Crypto Media Network and can be viewed on your MEW once confirmed on-chain.
+**To receive Media Block Network:** Once completing Steps 1-6, Click **“Copy address”** button just below your “Address” \(Public key\) as highlighted below. This is the address to which you can receive Media Block Network and can be viewed on your MEW once confirmed on-chain.
 
 ![](../.gitbook/assets/8%20%282%29.png)
 
-**To send Crypto Media Network:** Click on **“Send Transaction”** and when you have **Crypto Media Network** in your wallet you should be able to select **“Crypto Media Network”** from the **“Type”** drop down. Enter the **“Amount”** you want to send as well as the **“To Address”** to which you want to transfer **Crypto Media Network**. You can also click **“Edit”** if you want to change gas prices. Once you have entered all the details click on **“Send Transaction”.** Now you should get a popup on your ledger device to approve the transaction. After approving physically on the Ledger device the final confirmation screen will appear showing all the details
+**To send Media Block Network:** Click on **“Send Transaction”** and when you have **Media Block Network** in your wallet you should be able to select **“Media Block Network”** from the **“Type”** drop down. Enter the **“Amount”** you want to send as well as the **“To Address”** to which you want to transfer **Media Block Network**. You can also click **“Edit”** if you want to change gas prices. Once you have entered all the details click on **“Send Transaction”.** Now you should get a popup on your ledger device to approve the transaction. After approving physically on the Ledger device the final confirmation screen will appear showing all the details
 
 ![](../.gitbook/assets/9.png)
 
@@ -48,5 +48,5 @@ Now let’s learn how to Send/Receive **Crypto Media Network** on MEW.
 
 Double check all the details, click on **“Confirm and Send”** and wait for your transaction to be confirmed on-chain.
 
-We hope this tutorial helped you to learn how to connect your Ledger to MEW and send/receive **Crypto Media Network tokens**. Until next time friends!
+We hope this tutorial helped you to learn how to connect your Ledger to MEW and send/receive **Media Block Network tokens**. Until next time friends!
 

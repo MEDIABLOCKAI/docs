@@ -1,25 +1,25 @@
-# Crypto Media Network Coin Studio
+# Media Block Network Coin Studio
 
 
 
-![Crypto Media Network Coin Studio architecture](../../.gitbook/assets/image%20%283%29.png)
+![Media Block Network Coin Studio architecture](../../.gitbook/assets/image%20%283%29.png)
 
 ## Backend Infrastructure
 
 The backend is composed of the following independent services
 
 * Studio API Backend has two purposes. Provides an API for fast and convenient querying of the blockchain data for the Studio DApp. Transmits heavy and complicated transaction flows on behalf of the user.
-* Crypto Media Network Coin-funder service used to fund community members and wallet users on the Crypto Media Network Coin blockchain.
-* Crypto Media Network Coin IPFS proxy used for fast fetching and storing data in IPFS.
+* Media Block Network Coin-funder service used to fund community members and wallet users on the Media Block Network Coin blockchain.
+* Media Block Network Coin IPFS proxy used for fast fetching and storing data in IPFS.
 
 ## Contracts
 
-Crypto Media Network Coin studio is designed to launch DeFi communities on the Crypto Media Network Coin network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
+Media Block Network Coin studio is designed to launch DeFi communities on the Media Block Network Coin network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
 
 * Entities List contract to store community members and their roles
-* Community Crypto Media Network20 tokens on Crypto Media Network Coin network with transfer rules
-* Crypto Media Network20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
-* [Multitoken bridge](https://github.com/Crypto Media Networkio/bridge-contracts) - to minimize friction and costs we extended the POA Crypto Media Network20-Crypto Media Network20 bridge contract to many-Crypto Media Network20-to-many contract.
+* Community Media Block Network20 tokens on Media Block Network Coin network with transfer rules
+* Media Block Network20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
+* [Multitoken bridge](https://github.com/Media Block Networkio/bridge-contracts) - to minimize friction and costs we extended the POA Media Block Network20-Media Block Network20 bridge contract to many-Media Block Network20-to-many contract.
 
 ## Plugins
 

@@ -56,10 +56,10 @@ _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but simil
 
 ### Using Quickstart
 
-To make starting a node for the Crypto Media NetworkNetwork as quick as possible, the _quickstart_ script can be used.
+To make starting a node for the Media Block NetworkNetwork as quick as possible, the _quickstart_ script can be used.
 
 1. Download the script.
-2. Download one of the example `.env` files located at the [examples folder](https://github.com/Crypto Media Networkio/Crypto Media Network-network/tree/master/scripts/examples).
+2. Download one of the example `.env` files located at the [examples folder](https://github.com/Media Block Networkio/Media Block Network-network/tree/master/scripts/examples).
 3. Modify the `.env` file according to the role/type of node you're running.
 4. Start the script.
 
@@ -68,9 +68,9 @@ The script will make sure you have everything that is necessary, create a new ac
 The script can be called multiple times without problems, so it checks what is already there and will at least update all service processes.
 
 ```text
-$ wget -O quickstart.sh https://raw.githubusercontent.com/Crypto Media Network Coin/master/scripts/quickstart.sh
+$ wget -O quickstart.sh https://raw.githubusercontent.com/Media Block Network Coin/master/scripts/quickstart.sh
 $ chmod 777 quickstart.sh
-$ wget -O .env https://raw.githubusercontent.com/Crypto Media Network Coin/master/scripts/examples/.env.<ROLE>.example
+$ wget -O .env https://raw.githubusercontent.com/Media Block Network Coin/master/scripts/examples/.env.<ROLE>.example
 $ ./quickstart.sh
 ```
 
@@ -86,15 +86,15 @@ The image is prepared to be used as node, validator or explorer node.
 
 **Usage**
 
-To run the parity client for the Crypto Media NetworkNetwork you first have to pull the image from [DockerHub](https://hub.docker.com/r/Crypto Media Networknet/node).
+To run the parity client for the Media Block NetworkNetwork you first have to pull the image from [DockerHub](https://hub.docker.com/r/Media Block Networknet/node).
 
 It does not matter in which directory your are working this step, cause it will be added to _Docker_'s very own database.
 
 Afterwards calling the help should give a first basic overview how to use.
 
 ```text
-$ docker pull Crypto Media Networknet/node
-$ docker run Crypto Media Networknet/node --help
+$ docker pull Media Block Networknet/node
+$ docker run Media Block Networknet/node --help
 
      # NAME
 #   Parity Wrapper
@@ -153,7 +153,7 @@ $ docker run Crypto Media Networknet/node --help
 #   Parity's database is at /home/parity/.local/share/io.parity.ethereum/chains or available trough /data as well.
 #   To provide custom files in addition bind a volume through Docker to the sub-folder called 'custom'.
 #   The password file is expected to be placed in the custom configuration folder names 'pass.pwd'.
-#   The key-set is expected to to be placed in the custom configuration folder under 'keys/Crypto Media NetworkNetwork/'
+#   The key-set is expected to to be placed in the custom configuration folder under 'keys/Media Block NetworkNetwork/'
 #   Besides from using the pre-defined locations, it is possible to define them manually thought the parity arguments. Checkout their documentation to do so.
 ```
 
@@ -167,15 +167,15 @@ Besides the original help, the following sections provide some example instructi
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
-    --name Crypto Media Networknet \
-    --volume $(pwd)/Crypto Media Networknet/database:/data \
-    --volume $(pwd)/Crypto Media Networknet/config:/config/custom \
+    --name Media Block Networknet \
+    --volume $(pwd)/Media Block Networknet/database:/data \
+    --volume $(pwd)/Media Block Networknet/config:/config/custom \
     -p 30303:30300/tcp \
     -p 30303:30300/udp \
     -p 8545:8545 \
     -p 8546:8546 \
     --restart=on-failure \
-    Crypto Media Networknet/node \
+    Media Block Networknet/node \
     --role node \
     --parity-args --no-warp --node-key $NODE_KEY --bootnodes=$BOOTNODES
 ```
@@ -186,15 +186,15 @@ $ docker run \
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
-    --name Crypto Media Networknet \
-    --volume $(pwd)/Crypto Media Networknet/database:/data \
-    --volume $(pwd)/Crypto Media Networknet/config:/config/custom \
+    --name Media Block Networknet \
+    --volume $(pwd)/Media Block Networknet/database:/data \
+    --volume $(pwd)/Media Block Networknet/config:/config/custom \
     -p 30303:30300/tcp \
     -p 30303:30300/udp \
     -p 8545:8545 \
     -p 8546:8546 \
     --restart=on-failure \
-    Crypto Media Networknet/node \
+    Media Block Networknet/node \
     --role node \
     --parity-args --no-warp --node-key $NODE_KEY
 ```
@@ -209,7 +209,7 @@ Therefore create a new folder to do so.
 
 The following instructions expect the folder `config` inside the current working directory. Adjust them if you prefer a different location.
 
-Inside a directory for the keys with another sub-directory for the Crypto Media NetworkNetwork chain is used by _Parity_.
+Inside a directory for the keys with another sub-directory for the Media Block NetworkNetwork chain is used by _Parity_.
 
 Your key-file has to be placed there.
 
@@ -217,7 +217,7 @@ Afterwards the key's password has to be stored into a file directly inside the `
 
 To make use of the default configurations without adjustment, the file has to be called `pass.pwd`.
 
-If you have no account already or want to create a new one for this purpose checkout [this section](https://github.com/Crypto Media Networkio/Crypto Media Network-network/blob/master/README.md#create-new-account).
+If you have no account already or want to create a new one for this purpose checkout [this section](https://github.com/Media Block Networkio/Media Block Network-network/blob/master/README.md#create-new-account).
 
 Using so the previous paragraph as well as the first 2-3 instructions can be ignored.
 
@@ -226,43 +226,43 @@ Anyways the password used there has to be stored as shown below.
 Finally the client has to be started with the volume bound, the correct role and the address to use.
 
 ```text
-$ mkdir -p ./config/keys/Crypto Media NetworkNetwork
-$ cp /path/to/my/key ./config/keys/Crypto Media NetworkNetwork/
+$ mkdir -p ./config/keys/Media Block NetworkNetwork
+$ cp /path/to/my/key ./config/keys/Media Block NetworkNetwork/
 $ echo "mysupersecretpassphrase" > ./config/pass.pwd
 $ mkdir ./database
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
-    --name Crypto Media Networknet \
-    --volume $(pwd)/Crypto Media Networknet/database:/data \
-    --volume $(pwd)/Crypto Media Networknet/config:/config/custom \
+    --name Media Block Networknet \
+    --volume $(pwd)/Media Block Networknet/database:/data \
+    --volume $(pwd)/Media Block Networknet/config:/config/custom \
     -p 30303:30300/tcp \
     -p 30303:30300/udp \
     -p 8545:8545 \
     --restart=on-failure \
-    Crypto Media Networknet/node \
+    Media Block Networknet/node \
     --role validator \
     --address $address
 ```
 
 As part of validator's responsibilities in the network, two more containers need to be started along side the Parity node.
 
-One is the [validator-app](https://github.com/Crypto Media Networkio/Crypto Media Network-network/tree/master/app)
+One is the [validator-app](https://github.com/Media Block Networkio/Media Block Network-network/tree/master/app)
 
 ```text
 ## Start validator-app container with all necessary arguments.
 $ docker run \
     --detach \
-    --name Crypto Media Networkapp \
-    --volume $(pwd)/Crypto Media Networknet/config:/config/custom \
+    --name Media Block Networkapp \
+    --volume $(pwd)/Media Block Networknet/config:/config/custom \
     --restart=on-failure \
-    Crypto Media Networknet/validator-app
+    Media Block Networknet/validator-app
 ```
 
-Second one is the [bridge-oracle](https://github.com/Crypto Media Networkio/bridge-oracle)
+Second one is the [bridge-oracle](https://github.com/Media Block Networkio/bridge-oracle)
 
 ```text
-$ wget -O docker-compose.yml https://raw.githubusercontent.com/Crypto Media Networkio/bridge-oracle/master/docker-compose.keystore.yml
+$ wget -O docker-compose.yml https://raw.githubusercontent.com/Media Block Networkio/bridge-oracle/master/docker-compose.keystore.yml
 ## Start oracle container with all necessary arguments.
 $ docker-compose up \
     --build \
@@ -276,13 +276,13 @@ If you have no existing account or a new one should be created anyway, _Parity_ 
 
 Please consider other options like [MetaMask](https://metamask.io/) or any other \(online\) wallet tool.
 
-In relation to the instructions for the [validator](https://github.com/Crypto Media Networkio/Crypto Media Network-network/blob/master/README.md#validator) role, we use the folder called `config` to bind as _Docker_ volume to _Parity_.
+In relation to the instructions for the [validator](https://github.com/Media Block Networkio/Media Block Network-network/blob/master/README.md#validator) role, we use the folder called `config` to bind as _Docker_ volume to _Parity_.
 
 Afterwards the key will be placed there and the first steps of these instructions can be skipped.
 
 ```text
 $ mkdir ./config
-$ docker run -ti -v $(pwd)/config/:/config/custom Crypto Media Networknet/node --parity-args account new
+$ docker run -ti -v $(pwd)/config/:/config/custom Media Block Networknet/node --parity-args account new
 ```
 
 _Parity_ will ask for a password, that should be stored by you into `./config/pass.pwd` afterwards.
@@ -293,36 +293,36 @@ Please copy it for the later use. It will be needed for the `--address` argument
 
 **Explorer node**
 
-If you want to run a node to be used by the [blockscout explorer](https://github.com/Crypto Media Networkio/blockscout/tree/Crypto Media Network) run the following command:
+If you want to run a node to be used by the [blockscout explorer](https://github.com/Media Block Networkio/blockscout/tree/Media Block Network) run the following command:
 
 ```text
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
-    --name Crypto Media Networknet \
-    --volume $(pwd)/Crypto Media Networknet/database:/data \
-    --volume $(pwd)/Crypto Media Networknet/config:/config/custom \
+    --name Media Block Networknet \
+    --volume $(pwd)/Media Block Networknet/database:/data \
+    --volume $(pwd)/Media Block Networknet/config:/config/custom \
     -p 30303:30300/tcp \
     -p 30303:30300/udp \
     -p 8545:8545 \
     -p 8546:8546 \
     --restart=on-failure \
-    Crypto Media Networknet/node \
+    Media Block Networknet/node \
     --role explorer \
     --parity-args --node-key $NODE_KEY
 ```
 
 _**Note**_
 
-All roles should also run a [Ethereum Network Intelligence API](https://github.com/Crypto Media Networkio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://status.cmnscan.com/) service
+All roles should also run a [Ethereum Network Intelligence API](https://github.com/Media Block Networkio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://status.MBCscan.com/) service
 
 ```text
 $ docker run \
     --detach \
-    --name Crypto Media Networknetstat \
-    --net=container:Crypto Media Networknet \
+    --name Media Block Networknetstat \
+    --net=container:Media Block Networknet \
     --restart=on-failure \
-    Crypto Media Networknet/netstat \
+    Media Block Networknet/netstat \
     --instance-name $INSTANCE_NAME
 ```
 

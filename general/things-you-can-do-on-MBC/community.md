@@ -4,13 +4,13 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/)&#x20;
 
-**CMN Blockchain Forum**: [https://forum.cmnscan.com/](https://forum.cmnscan.com/)
+**MBC Blockchain Forum**: [https://forum.MBCscan.com/](https://forum.MBCscan.com/)
 
 ### Public Telegram groups
 
 **Main chat**: [https://t.me/](https://t.me/)
 
-**Italian CMN Blockchain Telegram community:** [https://t.me/](https://t.me/)
+**Italian MBC Blockchain Telegram community:** [https://t.me/](https://t.me/)
 
-**Indonesian CMN Blockchain Telegram community:** [https://t.me/](https://t.me/)
+**Indonesian MBC Blockchain Telegram community:** [https://t.me/](https://t.me/)
 

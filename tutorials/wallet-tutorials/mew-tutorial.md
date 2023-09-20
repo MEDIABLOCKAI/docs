@@ -1,7 +1,7 @@
 ---
 description: >-
   This tutorial explains how to use MyEtherWallet (MEW) so that you can view and
-  transfer CMN.
+  transfer MBC.
 ---
 
 # MEW Tutorial
@@ -22,22 +22,22 @@ description: >-
 
 ![](../../.gitbook/assets/6%20%283%29.png)
 
-**Step 4: CMN** is already present in the default list of tokens on MEW. You just have to search **CMN** on the right hand side \(as shown below\) to view your **CMN** balance on that particular Ethereum address.
+**Step 4: MBC** is already present in the default list of tokens on MEW. You just have to search **MBC** on the right hand side \(as shown below\) to view your **MBC** balance on that particular Ethereum address.
 
 ![](../../.gitbook/assets/7%20%282%29.png)
 
-Now let’s learn how to Send/Receive **CMN** on MEW.
+Now let’s learn how to Send/Receive **MBC** on MEW.
 
-**To receive CMN tokens:** Once completing Steps 1-4, Click on **“Copy Address”** just below your **“Address”** \(Public key\) as highlighted below. This is the address to which you can receive **CMN** and can be viewed on your MEW once confirmed on-chain.
+**To receive MBC tokens:** Once completing Steps 1-4, Click on **“Copy Address”** just below your **“Address”** \(Public key\) as highlighted below. This is the address to which you can receive **MBC** and can be viewed on your MEW once confirmed on-chain.
 
 ![](../../.gitbook/assets/8.png)
 
-**To send CMN:** Click **“Send Transaction”**. When you have **CMN** in your wallet you should be able to select **“CMN”** from the **“Type”** drop down. Enter the **“Amount”** you want to send and also the **“To Address”** to which you want to transfer **CMN**. You can also click on **“Edit”** if you want to change gas prices. Once you have entered all the details click on **“Send Transaction”.**
+**To send MBC:** Click **“Send Transaction”**. When you have **MBC** in your wallet you should be able to select **“MBC”** from the **“Type”** drop down. Enter the **“Amount”** you want to send and also the **“To Address”** to which you want to transfer **MBC**. You can also click on **“Edit”** if you want to change gas prices. Once you have entered all the details click on **“Send Transaction”.**
 
 * If you are using **Hardware wallets/Wallet connect** to login then you will get a popup screen on Hardware wallets/Wallet connect to approve the transaction. Only after approving you will see the final confirmation dialog box will appear.
 *  If you are using soft login methods then the final confirmation screen will appear once you click “Send Transaction”.
 
-Note: You need to have Ethereum in your wallet which will be used as “Gas fees” to send CMN on MEW.
+Note: You need to have Ethereum in your wallet which will be used as “Gas fees” to send MBC on MEW.
 
 ![](../../.gitbook/assets/9%20%282%29.png)
 
@@ -45,5 +45,5 @@ Note: You need to have Ethereum in your wallet which will be used as “Gas fees
 
 Double check all the details, click **“Confirm and Send”** and wait for your transaction to be confirmed on-chain.
 
-We hope this tutorial helped you to use MEW and send/receive **CMN**. Until next time friends!
+We hope this tutorial helped you to use MEW and send/receive **MBC**. Until next time friends!
 

@@ -1,6 +1,6 @@
 # Untitled
 
-We will learn how to connect Ledger to Metamask and use it on CMN Blockchain network after the latest Metamask and Ledger live update.
+We will learn how to connect Ledger to Metamask and use it on MBC Blockchain network after the latest Metamask and Ledger live update.
 
 Ledger live 2.26.1
 
@@ -47,7 +47,7 @@ Once the device bridge is opened go back to Metamask and select the Account \(ad
 
 ![Capture.PNG](../.gitbook/assets/6%20%2810%29.png)
 
-You will be logged in to the address you selected and now you can change to “CMN Blockchain network” and perform the transactions on CMN Blockchain network through your Ledger device.
+You will be logged in to the address you selected and now you can change to “MBC Blockchain network” and perform the transactions on MBC Blockchain network through your Ledger device.
 
-Note: To learn how to add CMN Blockchain network RPC follow [this link.](https://doc.cmnscan.com/the-CMN-studio/getting-started/how-to-add-CMN-to-your-metamask)
+Note: To learn how to add MBC Blockchain network RPC follow [this link.](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask)
 

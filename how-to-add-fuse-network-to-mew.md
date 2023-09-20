@@ -1,20 +1,20 @@
-# How to add CMN Blockchain to MEW
+# How to add MBC Blockchain to MEW
 
-As of MEW version 5.6.6-hotfix1 CMN has been added as a supported network in MEW. You can manage your native CMN with all
+As of MEW version 5.6.6-hotfix1 MBC has been added as a supported network in MEW. You can manage your native MBC with all
 the creature comforts MEW offers, it also allows hardware wallet support. 
 
-1. To set up CMN Blockchain on MEW click on "change" under network section at the top right corner, to change the current 
+1. To set up MBC Blockchain on MEW click on "change" under network section at the top right corner, to change the current 
 network.
 
 ![](.gitbook/assets/MEW_1.png)
 
-2. A popup will open. Scroll down the list until you find "CMN".
+2. A popup will open. Scroll down the list until you find "MBC".
 
 ![](.gitbook/assets/MEW_2.png)
 
-3. Click "CMN Blockchain" text/button
+3. Click "MBC Blockchain" text/button
 
-4. Now you're connected to CMN Blockchain and can use it's full features and products.
+4. Now you're connected to MBC Blockchain and can use it's full features and products.
 
 For more info about using MEW please refer to their documentation [here](https://kb.myetherwallet.com/).
 

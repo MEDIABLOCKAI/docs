@@ -1,10 +1,10 @@
 ---
-description: Steps on deploying a smart contract on CMNnet through Remix.
+description: Steps on deploying a smart contract on MBCnet through Remix.
 ---
 
-# Deploying smart contract on CMNnet
+# Deploying smart contract on MBCnet
 
-CMN Blockchain is an EVM compatible network, every tool for Ethereum can be used for the CMN Blockchain network too.
+MBC Blockchain is an EVM compatible network, every tool for Ethereum can be used for the MBC Blockchain network too.
 
 Remix is a powerful, open source tool that helps you write Solidity contracts straight from the browser. Written in JavaScript, Remix supports both usage in the browser and locally.
 
@@ -12,9 +12,9 @@ Remix also supports testing, debugging and deploying of smart contracts and much
 
  **Pre-requisites:**
 
-Since we interact with remix using Metamask, you need to change the network to CMN Blockchain network by adding a custom RPC. Please follow the steps in [this tutorial](https://doc.cmnscan.com/the-CMN-studio/getting-started/how-to-add-CMN-to-your-metamask) to do that.
+Since we interact with remix using Metamask, you need to change the network to MBC Blockchain network by adding a custom RPC. Please follow the steps in [this tutorial](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask) to do that.
 
-You need to have a small balance of CMN on the CMNnet wallet you are using which will be used as Gas for the transactions.
+You need to have a small balance of MBC on the MBCnet wallet you are using which will be used as Gas for the transactions.
 
  **Step 1:**
 
@@ -40,7 +40,7 @@ We will now compile the contract created using the Solidity compiler which you c
 
 **Step 4:**
 
-Once compiled you should see a tick mark next to the compiler and we are good to deploy the contract into CMNnet. Please click on **“Deploy and run transaction”** below the compiler option. Select **“Injected Web3”** from the drop down of Environment and adjust the gas value and click on **“Deploy”.** You should confirm the transaction on your Metamask and wait for the transaction to be confirmed on-chain.
+Once compiled you should see a tick mark next to the compiler and we are good to deploy the contract into MBCnet. Please click on **“Deploy and run transaction”** below the compiler option. Select **“Injected Web3”** from the drop down of Environment and adjust the gas value and click on **“Deploy”.** You should confirm the transaction on your Metamask and wait for the transaction to be confirmed on-chain.
 
 ![](../.gitbook/assets/4%20%2810%29.png)
 

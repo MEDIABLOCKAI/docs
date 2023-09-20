@@ -1,3 +1,3 @@
-# Wallets supporting Crypto Media Network Coin
+# Wallets supporting Media Block Network Coin
 
-Metamask currently support the Crypto Media Network Coin blockchain.
+Metamask currently support the Media Block Network Coin blockchain.

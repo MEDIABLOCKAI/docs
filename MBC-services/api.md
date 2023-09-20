@@ -4,15 +4,15 @@ description: Integrate your product to your community and token trough the Studi
 
 # Studio API
 
-## Crypto Media Network-studio-backend v0.1.0
+## Media Block Network-studio-backend v0.1.0
 
-The Crypto Media Network Coin Studio REST API for accessing the data and the services of the Crypto Media Network Coin network in a simple way. You can use this API to query and interact with the objects of the Crypto Media Network Coin network such as: Communities, Tokens, Bridges and Entities.
+The Media Block Network Coin Studio REST API for accessing the data and the services of the Media Block Network Coin network in a simple way. You can use this API to query and interact with the objects of the Media Block Network Coin network such as: Communities, Tokens, Bridges and Entities.
 
 ## Bridge
 
 ### Fetch bridge
 
-The token bridge connects the Ethereum and Crypto Media Network Coin network
+The token bridge connects the Ethereum and Media Block Network Coin network
 
 ```text
 GET /bridges/:homeTokenAddress
@@ -22,17 +22,17 @@ GET /bridges/:homeTokenAddress
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| homeTokenAddress | `String` | Home \(Crypto Media Network Coin\) token address |
+| homeTokenAddress | `String` | Home \(Media Block Network Coin\) token address |
 
 #### Success 200
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| homeTokenAddress | `String` | Token address on the Crypto Media Network Coin network |
+| homeTokenAddress | `String` | Token address on the Media Block Network Coin network |
 | foreignTokenAddress | `String` | Token address on the Ethereum network |
 | foreignBridgeAddress | `String` | Bridge address on the Ethereum network |
-| homeBridgeAddress | `String` | Bridge address on the Crypto Media Network Coin network |
-| homeBridgeBlockNumber | `Number` | Bridge creation block number on the Crypto Media Network Coin network |
+| homeBridgeAddress | `String` | Bridge address on the Media Block Network Coin network |
+| homeBridgeBlockNumber | `Number` | Bridge creation block number on the Media Block Network Coin network |
 | foreignBridgeBlockNumber | `Number` | Bridge creation block number on the Ethereum network |
 
 ## Community
@@ -70,7 +70,7 @@ POST /communities/:communityAddress
 
 ### Fetch community
 
-Community is a set of contracts and services. Members of the community are users of the Crypto Media Network Coin network. The community is configured via the plugins.
+Community is a set of contracts and services. Members of the community are users of the Media Block Network Coin network. The community is configured via the plugins.
 
 ```text
 GET /communities/:communityAddress
@@ -86,10 +86,10 @@ GET /communities/:communityAddress
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| communityAddress | `String` | Address of the community on the Crypto Media Network Coin network |
-| homeTokenAddress | `String` | Address of the community token on the Crypto Media Network Coin network |
+| communityAddress | `String` | Address of the community on the Media Block Network Coin network |
+| homeTokenAddress | `String` | Address of the community token on the Media Block Network Coin network |
 | foreignTokenAddress | `String` | Address of the community token on the Ethereum network |
-| homeBridgeAddress | `String` | Address of the community bridge on the Crypto Media Network Coin network |
+| homeBridgeAddress | `String` | Address of the community bridge on the Media Block Network Coin network |
 | foreignBridgeAddress | `String` | Address of the community bridge on the Ethereum network |
 | isClosed | `Boolean` | Is the community is closed or open. Closed community requires an approve of community admin to join. |
 | plugins | `Object` | Defines the community plugins. |
@@ -126,7 +126,7 @@ GET /entities/:communityAddress
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| communityAddress | `String` | Community address of the Crypto Media Network Coin network |
+| communityAddress | `String` | Community address of the Media Block Network Coin network |
 | page | `Number` | Page number for pagination |
 | withMetadata | `Boolean` | Get entities with entity's metadata |
 | search | `String` | Entity's name for a search by name |
@@ -139,7 +139,7 @@ GET /entities/:communityAddress
 
 ### Fetch entity
 
-Entity is an account on the Crypto Media Network Coin network. It can have variety of roles like user, admin, business, or custom defined role.
+Entity is an account on the Media Block Network Coin network. It can have variety of roles like user, admin, business, or custom defined role.
 
 ```text
 GET /entities/:communityAddress/:account
@@ -156,7 +156,7 @@ GET /entities/:communityAddress/:account
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| account | `String` | Entity's account on Crypto Media Network Coin network |
+| account | `String` | Entity's account on Media Block Network Coin network |
 | communityAddress | `String` | Community address of the entity |
 | uri | `String` | IPFS URI points to entity's metadata |
 | name | `String` | Entity's name |
@@ -169,7 +169,7 @@ GET /entities/:communityAddress/:account
 
 ### Fetch token
 
-Tokens are compatible with the Crypto Media Network20 standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
+Tokens are compatible with the Media Block Network20 standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
 
 ```text
 GET /tokens/:address
@@ -194,7 +194,7 @@ GET /tokens/:address
 | factoryAddress | `String` | Factory contract that created the token |
 | blockNumber | `String` | Block number of the token's creation |
 | tokenType | `String` | Token type: basic/mintableBurnable/imported |
-| networkType | `String` | Network type where the token is issued: mainnet/ropsten/Crypto Media Network |
+| networkType | `String` | Network type where the token is issued: mainnet/ropsten/Media Block Network |
 
 ### Fetch tokens
 
@@ -206,7 +206,7 @@ GET /tokens
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| networkType | `String` | mainnet/ropsten/Crypto Media Network |
+| networkType | `String` | mainnet/ropsten/Media Block Network |
 | page | `Number` | Page number for pagination |
 
 #### Success 200
@@ -226,7 +226,7 @@ GET /tokens/owner/:owner
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | owner | `String` | account address of the token owner |
-| networkType | `String` | mainnet/ropsten/Crypto Media Network |
+| networkType | `String` | mainnet/ropsten/Media Block Network |
 
 #### Success 200
 

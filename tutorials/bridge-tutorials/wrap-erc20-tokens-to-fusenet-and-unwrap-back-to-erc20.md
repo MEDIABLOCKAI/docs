@@ -1,12 +1,12 @@
 ---
 description: >-
-  Steps to transfer/wrap CMN20 tokens from Ethereum to CMNnet and back using
+  Steps to transfer/wrap MBC20 tokens from Ethereum to MBCnet and back using
   smart contracts.
 ---
 
-# Using the bridge with CMN20 tokens directly through the contract
+# Using the bridge with MBC20 tokens directly through the contract
 
-**Please use this tutorial at your own risk as it involves using Etherscan UI/CMN Blockchain explorer to relay the tokens. This tutorial is applicable only for CMN20 tokens other than CMN. Do not use this tutorial to transfer CMN.** 
+**Please use this tutorial at your own risk as it involves using Etherscan UI/MBC Blockchain explorer to relay the tokens. This tutorial is applicable only for MBC20 tokens other than MBC. Do not use this tutorial to transfer MBC.** 
 
 We are going to have a UI soon so it would be good to wait for the bridge UI too.
 
@@ -14,9 +14,9 @@ Below are the important contract addresses:
 
 Ethereum Mediator: **0xf301d525da003e874DF574BCdd309a6BF0535bb6**
 
-CMNnet Mediator : **0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03**
+MBCnet Mediator : **0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03**
 
-In the below example we will consider USDT \(CMN20\) and learn how to wrap USDT to CMNnet and relay it back to CMN20.
+In the below example we will consider USDT \(MBC20\) and learn how to wrap USDT to MBCnet and relay it back to MBC20.
 
 **Step 1:** **Approving the USDT token contract**
 
@@ -54,27 +54,27 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/3%20%285%29.png)
 
-Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your CMN Blockchain address and have been swapped from Ethereum mainnet to CMNnet.
+Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your MBC Blockchain address and have been swapped from Ethereum mainnet to MBCnet.
 
-Now let’s learn how to transfer the wrapped CMN20 tokens on CMNnet back to Ethereum mainnet.
+Now let’s learn how to transfer the wrapped MBC20 tokens on MBCnet back to Ethereum mainnet.
 
-**Step 1:** Approving the wrapped USDT token contract on CMNnet. 
+**Step 1:** Approving the wrapped USDT token contract on MBCnet. 
 
-This step basically is to approve your wallet to interact with the USDT token contract on CMNnet so that you can transfer the tokens to the Mediator contract.
+This step basically is to approve your wallet to interact with the USDT token contract on MBCnet so that you can transfer the tokens to the Mediator contract.
 
-Please go to token contract on CMNnet explorer via link below.
+Please go to token contract on MBCnet explorer via link below.
 
-https://cmnscan.com/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
+https://MBCscan.com/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
-Make sure that the network is CMN network. If you have not added CMN Blockchain network please follow the instructions [here](https://doc.cmnscan.com/the-CMN-studio/getting-started/how-to-add-CMN-to-your-metamask).
+Make sure that the network is MBC network. If you have not added MBC Blockchain network please follow the instructions [here](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
 
 Click on **“Connect to Metamask”** and sign in to your wallet through Metamask.
 
  **Step 2:** Go to **“approve”** and enter the details below
 
-* spender \(address\) field: the mediator contract address on CMNnet \(0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03\)
+* spender \(address\) field: the mediator contract address on MBCnet \(0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03\)
 * spender \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 18\)
 
 Click on **“Write”** and approve the transaction on your Metamask wallet and wait for the confirmation on-chain.
@@ -83,20 +83,20 @@ Click on **“Write”** and approve the transaction on your Metamask wallet and
 
 **Step 3:**
 
-Navigate to Migrator contract on CMNnet using the link below
+Navigate to Migrator contract on MBCnet using the link below
 
-[https://cmnscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://cmnscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
+[https://MBCscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://MBCscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
 
 Click on **“Write as Proxy”** and then on **“Connect to Metamask”** \(If you have connected Metamask previously no need to connect again\). Sign in through your Metamask wallet.
 
 Enter the below details on **“Relay tokens”** and click on **“Write”**
 
-* token \(address\) field: the USDT token contract address on CMNnet \(0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10\)
+* token \(address\) field: the USDT token contract address on MBCnet \(0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10\)
 * \_value \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 6\)
 
 ![](../../.gitbook/assets/6%20%285%29.png)
 
-After the transaction is confirmed on CMN Blockchain network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as CMN Blockchain is PoS network. After sometime you should be able to see the successful transfer of the token on your CMN20 address.
+After the transaction is confirmed on MBC Blockchain network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as MBC Blockchain is PoS network. After sometime you should be able to see the successful transfer of the token on your MBC20 address.
 
 Note: Please do enter the decimals very carefully. If the decimals are entered incorrectly then the transaction might fail with an error or might cost you very high gas.
 

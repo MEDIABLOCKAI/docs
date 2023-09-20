@@ -1,8 +1,8 @@
 # FIPS
 
-FIPS are Crypto Media Network Coin Improvement proposals that are published on Github and  extend capabilities of the network and improve it over time. Proposals can be suggested by any entity and discussed under this Github repository:
+FIPS are Media Block Network Coin Improvement proposals that are published on Github and  extend capabilities of the network and improve it over time. Proposals can be suggested by any entity and discussed under this Github repository:
 
-{% embed url="https://github.com/Crypto Media Networkio/FIPs/tree/master/FIPS" %}
+{% embed url="https://github.com/Media Block Networkio/FIPs/tree/master/FIPS" %}
 
 After proposing and discussing every proposal, the proposal that will be implemented are voted on by the validators before upgrading the network.
 

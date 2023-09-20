@@ -1,18 +1,18 @@
 ---
-description: Crypto Media NetworkSwap API is an auxiliary service to ease the integration with Crypto Media NetworkSwap DEX
+description: Media Block NetworkSwap API is an auxiliary service to ease the integration with Media Block NetworkSwap DEX
 ---
 
-# Crypto Media Networkswap API
+# Media Block Networkswap API
 
-## Crypto Media Networkswap Backend API v0.1.0
+## Media Block Networkswap Backend API v0.1.0
 
-The Crypto Media Networkswap Backend REST API is used for generating trading data for frontend clients
+The Media Block Networkswap Backend REST API is used for generating trading data for frontend clients
 
 ## PriceChange
 
 ### Get price change for token over last 24 hours
 
-[Back to top](https://github.com/Crypto Media Networkio/Crypto Media Networkswap-service/blob/master/docs/api.md#top)
+[Back to top](https://github.com/Media Block Networkio/Media Block Networkswap-service/blob/master/docs/api.md#top)
 
 ```text
 GET /pricechange
@@ -49,7 +49,7 @@ Success-Response:
 
 ### Get price change for token over time duration
 
-[Back to top](https://github.com/Crypto Media Networkio/Crypto Media Networkswap-service/blob/master/docs/api.md#top)
+[Back to top](https://github.com/Media Block Networkio/Media Block Networkswap-service/blob/master/docs/api.md#top)
 
 ```text
 POST /pricechange
@@ -89,7 +89,7 @@ Success-Response:
 
 ### Get latest price for a token
 
-[Back to top](https://github.com/Crypto Media Networkio/Crypto Media Networkswap-service/blob/master/docs/api.md#top)
+[Back to top](https://github.com/Media Block Networkio/Media Block Networkswap-service/blob/master/docs/api.md#top)
 
 ```text
 GET /price
@@ -124,7 +124,7 @@ Success-Response:
 
 ### Get historical statistics of the token
 
-[Back to top](https://github.com/Crypto Media Networkio/Crypto Media Networkswap-service/blob/master/docs/api.md#top)
+[Back to top](https://github.com/Media Block Networkio/Media Block Networkswap-service/blob/master/docs/api.md#top)
 
 ```text
 GET /stats/:tokenAddress?=limit={limit}
@@ -165,7 +165,7 @@ Success-Response:
 
 ### Create a quote for a token pair
 
-[Back to top](https://github.com/Crypto Media Networkio/Crypto Media Networkswap-service/blob/master/docs/api.md#top)
+[Back to top](https://github.com/Media Block Networkio/Media Block Networkswap-service/blob/master/docs/api.md#top)
 
 ```text
 POST /swap/quote
@@ -222,11 +222,11 @@ Success-Response:
                                 "currency": {
                                     "decimals": 6,
                                     "symbol": "USDC",
-                                    "name": "USD Coin on Crypto Media Network Coin",
+                                    "name": "USD Coin on Media Block Network Coin",
                                     "chainId": 39656,
                                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                     "tokenInfo": {
-                                        "name": "USD Coin on Crypto Media Network Coin",
+                                        "name": "USD Coin on Media Block Network Coin",
                                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                         "symbol": "USDC",
                                         "decimals": 6,
@@ -238,11 +238,11 @@ Success-Response:
                                 "token": {
                                     "decimals": 6,
                                     "symbol": "USDC",
-                                    "name": "USD Coin on Crypto Media Network Coin",
+                                    "name": "USD Coin on Media Block Network Coin",
                                     "chainId": 39656,
                                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                     "tokenInfo": {
-                                        "name": "USD Coin on Crypto Media Network Coin",
+                                        "name": "USD Coin on Media Block Network Coin",
                                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                         "symbol": "USDC",
                                         "decimals": 6,
@@ -264,11 +264,11 @@ Success-Response:
                                 "currency": {
                                     "decimals": 18,
                                     "symbol": "WETH",
-                                    "name": "Wrapped Ether on Crypto Media Network Coin",
+                                    "name": "Wrapped Ether on Media Block Network Coin",
                                     "chainId": 39656,
                                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                     "tokenInfo": {
-                                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                                        "name": "Wrapped Ether on Media Block Network Coin",
                                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                         "symbol": "WETH",
                                         "decimals": 18,
@@ -280,11 +280,11 @@ Success-Response:
                                 "token": {
                                     "decimals": 18,
                                     "symbol": "WETH",
-                                    "name": "Wrapped Ether on Crypto Media Network Coin",
+                                    "name": "Wrapped Ether on Media Block Network Coin",
                                     "chainId": 39656,
                                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                     "tokenInfo": {
-                                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                                        "name": "Wrapped Ether on Media Block Network Coin",
                                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                         "symbol": "WETH",
                                         "decimals": 18,
@@ -301,11 +301,11 @@ Success-Response:
                     {
                         "decimals": 18,
                         "symbol": "WETH",
-                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                        "name": "Wrapped Ether on Media Block Network Coin",
                         "chainId": 39656,
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "tokenInfo": {
-                            "name": "Wrapped Ether on Crypto Media Network Coin",
+                            "name": "Wrapped Ether on Media Block Network Coin",
                             "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                             "symbol": "WETH",
                             "decimals": 18,
@@ -317,11 +317,11 @@ Success-Response:
                     {
                         "decimals": 6,
                         "symbol": "USDC",
-                        "name": "USD Coin on Crypto Media Network Coin",
+                        "name": "USD Coin on Media Block Network Coin",
                         "chainId": 39656,
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "tokenInfo": {
-                            "name": "USD Coin on Crypto Media Network Coin",
+                            "name": "USD Coin on Media Block Network Coin",
                             "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                             "symbol": "USDC",
                             "decimals": 6,
@@ -342,11 +342,11 @@ Success-Response:
                     "baseCurrency": {
                         "decimals": 18,
                         "symbol": "WETH",
-                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                        "name": "Wrapped Ether on Media Block Network Coin",
                         "chainId": 39656,
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "tokenInfo": {
-                            "name": "Wrapped Ether on Crypto Media Network Coin",
+                            "name": "Wrapped Ether on Media Block Network Coin",
                             "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                             "symbol": "WETH",
                             "decimals": 18,
@@ -358,11 +358,11 @@ Success-Response:
                     "quoteCurrency": {
                         "decimals": 6,
                         "symbol": "USDC",
-                        "name": "USD Coin on Crypto Media Network Coin",
+                        "name": "USD Coin on Media Block Network Coin",
                         "chainId": 39656,
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "tokenInfo": {
-                            "name": "USD Coin on Crypto Media Network Coin",
+                            "name": "USD Coin on Media Block Network Coin",
                             "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                             "symbol": "USDC",
                             "decimals": 6,
@@ -384,11 +384,11 @@ Success-Response:
                 "input": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on Crypto Media Network Coin",
+                    "name": "Wrapped Ether on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                        "name": "Wrapped Ether on Media Block Network Coin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -400,11 +400,11 @@ Success-Response:
                 "output": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on Crypto Media Network Coin",
+                    "name": "USD Coin on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on Crypto Media Network Coin",
+                        "name": "USD Coin on Media Block Network Coin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -427,11 +427,11 @@ Success-Response:
                 "currency": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on Crypto Media Network Coin",
+                    "name": "Wrapped Ether on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                        "name": "Wrapped Ether on Media Block Network Coin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -443,11 +443,11 @@ Success-Response:
                 "token": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on Crypto Media Network Coin",
+                    "name": "Wrapped Ether on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                        "name": "Wrapped Ether on Media Block Network Coin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -467,11 +467,11 @@ Success-Response:
                 "currency": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on Crypto Media Network Coin",
+                    "name": "USD Coin on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on Crypto Media Network Coin",
+                        "name": "USD Coin on Media Block Network Coin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -483,11 +483,11 @@ Success-Response:
                 "token": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on Crypto Media Network Coin",
+                    "name": "USD Coin on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on Crypto Media Network Coin",
+                        "name": "USD Coin on Media Block Network Coin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -508,11 +508,11 @@ Success-Response:
                 "baseCurrency": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on Crypto Media Network Coin",
+                    "name": "Wrapped Ether on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                        "name": "Wrapped Ether on Media Block Network Coin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -524,11 +524,11 @@ Success-Response:
                 "quoteCurrency": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on Crypto Media Network Coin",
+                    "name": "USD Coin on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on Crypto Media Network Coin",
+                        "name": "USD Coin on Media Block Network Coin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -558,11 +558,11 @@ Success-Response:
                 "baseCurrency": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on Crypto Media Network Coin",
+                    "name": "Wrapped Ether on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on Crypto Media Network Coin",
+                        "name": "Wrapped Ether on Media Block Network Coin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -574,11 +574,11 @@ Success-Response:
                 "quoteCurrency": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on Crypto Media Network Coin",
+                    "name": "USD Coin on Media Block Network Coin",
                     "chainId": 39656,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on Crypto Media Network Coin",
+                        "name": "USD Coin on Media Block Network Coin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -627,7 +627,7 @@ Success-Response:
 
 ### Create swap parameters for a Trade
 
-[Back to top](https://github.com/Crypto Media Networkio/Crypto Media Networkswap-service/blob/master/docs/api.md#top)
+[Back to top](https://github.com/Media Block Networkio/Media Block Networkswap-service/blob/master/docs/api.md#top)
 
 ```text
 POST /swap/swapcallparameters
@@ -730,7 +730,7 @@ Success-Response:
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| methodName | `String` | The method to call on Crypto Media Networkswap RouterV2 |
+| methodName | `String` | The method to call on Media Block Networkswap RouterV2 |
 | args | `String[]` | The arguments to pass to the method, all hex encoded |
 | value | `String` | The amount of wei to send in hex |
 | rawTxn | `Object` | Unsigned transaction which represents the transaction that needs to be signed and submitted to the network |

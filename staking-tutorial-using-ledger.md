@@ -1,6 +1,6 @@
 ---
 description: >-
-  This tutorial will walk you through the steps on how to stake CMN using
+  This tutorial will walk you through the steps on how to stake MBC using
   Ledger hardware wallet and MyEtherWallet.
 ---
 
@@ -22,7 +22,7 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](.gitbook/assets/3%20%287%29.png)
 
-**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“CMN Blockchain network” and then** select the Wallet address you would like to Send/Receive CMN tokens, accept the terms and conditions and click on **“Access my Wallet”.**
+**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“MBC Blockchain network” and then** select the Wallet address you would like to Send/Receive MBC tokens, accept the terms and conditions and click on **“Access my Wallet”.**
 
 ![](.gitbook/assets/4%20%288%29.png)
 
@@ -30,18 +30,18 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](.gitbook/assets/6%20%286%29.png)
 
-**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on CMN Blockchain network, you can see your CMN Blockchain address , balance, etc.
+**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on MBC Blockchain network, you can see your MBC Blockchain address , balance, etc.
 
 ![](.gitbook/assets/7%20%284%29.png)
 
-**Now let’s learn how to stake CMN.**
+**Now let’s learn how to stake MBC.**
 
 **Step 6:** Click on **“Contract”** and then click on Interact with contract and
 
 1. Enter the consensus contract address **0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95**
 2. Copy the consensus ABI from below link
 
-[https://raw.githubusercontent.com/CMN Blockchain/master/abis/Consensus\_abi.json](https://raw.githubusercontent.com/CMN Blockchain/master/abis/Consensus_abi.json)
+[https://raw.githubusercontent.com/MBC Blockchain/master/abis/Consensus\_abi.json](https://raw.githubusercontent.com/MBC Blockchain/master/abis/Consensus_abi.json)
 
 Click on **“Continue”**.
 
@@ -49,21 +49,21 @@ Click on **“Continue”**.
 
 **Step 7:**
 
-From the drop down select the **“Delegate”** function and then copy the “**Validator address”** from the staking UI. Enter the amount of CMN you want to stake under **“Value in ETH”** and click on **“Write”**. In the below example I have copied ”Liquify” validators address to stake.
+From the drop down select the **“Delegate”** function and then copy the “**Validator address”** from the staking UI. Enter the amount of MBC you want to stake under **“Value in ETH”** and click on **“Write”**. In the below example I have copied ”Liquify” validators address to stake.
 
 ![](.gitbook/assets/9%20%284%29.png)
 
 ![](.gitbook/assets/10%20%284%29.png)
 
-Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have staked your CMN successfully.
+Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have staked your MBC successfully.
 
-Now lets learn to withdraw the staked CMN.
+Now lets learn to withdraw the staked MBC.
 
 **Step 8**: Follow Step 1 to Step 6 from above.
 
-From the drop down select the **“Withdraw”** function and then copy the “**Validator address”** from the staking UI to which you have delegated your stake. Enter the amount of CMN you want to stake under **“\_amount\(uint256\)”, “value in ETH”** should be 0 and click on **“Write”**.
+From the drop down select the **“Withdraw”** function and then copy the “**Validator address”** from the staking UI to which you have delegated your stake. Enter the amount of MBC you want to stake under **“\_amount\(uint256\)”, “value in ETH”** should be 0 and click on **“Write”**.
 
 ![](.gitbook/assets/11.png)
 
-Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have unstaked your CMN successfully.
+Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have unstaked your MBC successfully.
 
