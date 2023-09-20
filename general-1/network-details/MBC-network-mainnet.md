@@ -4,10 +4,10 @@
 
 | Block size | Block speed | Gas price          | Patchset | Native token | Network ID |
 | ---------- | ----------- | ------------------ | -------- | ------------ | ---------- |
-| 20,000,000 | 3 seconds   | 1500000700 GWei    |          | Media Block Network          |      65931 |
+| 20,000,000 | 3 seconds   | 1500000700 GWei    |          | MBC          |      65931 |
 
-* D: **Media Block Network Coin**
-* ChanId: **7347**
+* D: **Media Block Coin (MBC)**
+* ChanId: **7966**
 * Gas price: ****
 * RPC
   * official RPC: [https://testnet-rpc.mediablock.ai/])​

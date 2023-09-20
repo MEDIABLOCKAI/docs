@@ -42,7 +42,7 @@ set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
 ```
 
 {% hint style="success" %}
-After running the script successfully, you will see your address in the [health](https://status.MBC.io/) site.
+After running the script successfully, you will see your address in the [health](https://status.mediablock.io/) site.
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
@@ -52,7 +52,7 @@ After running the script successfully, you will see your address in the [health]
 To stake MBC tokens, all you should do is send your Media Block Network tokens to the Media Block Network Coin Consensus contract address over the MBC Coin network from the validator address.
 
 {% hint style="success" %}
-The MBC  Coin Consensus contract address: `0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95`
+The MBC  Coin Consensus contract address: `0xC48b6EAECd49959235dE3DE5C73974079d2Be325`
 {% endhint %}
 
 The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to MBC Coin and send the Media Block Network tokens \(native tokens\) to the Consensus contract address.
@@ -85,7 +85,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://status.MBC.io/) site and on the [explorer](https://MBC.io) site.
+You can see that you are validating both in the [health](https://status.medialock.io/) site and on the [explorer](https://MBC.io) site.
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!
