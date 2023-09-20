@@ -18,7 +18,7 @@ Click on **“Bridge”**, Select **“Media Block Network”** from dropdown an
 
 ![](../.gitbook/assets/2%20%289%29.png)
 
-Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the Media Block Network balance in the same address on Media Block Network Coin network will have the updated balance of Media Block Network which can be checked through [https://MBCscan.com/](https://MBCscan.com/) 
+Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the Media Block Network balance in the same address on Media Block Network Coin network will have the updated balance of Media Block Network which can be checked through [https://mediablock.ai/](https://mediablock.ai/) 
 
 ![](../.gitbook/assets/3%20%288%29.png)
 

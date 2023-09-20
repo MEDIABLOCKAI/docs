@@ -314,7 +314,7 @@ $ docker run \
 
 _**Note**_
 
-All roles should also run a [Ethereum Network Intelligence API](https://github.com/Media Block Networkio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://status.MBCscan.com/) service
+All roles should also run a [Ethereum Network Intelligence API](https://github.com/Media Block Networkio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://status.mediablock.ai/) service
 
 ```text
 $ docker run \

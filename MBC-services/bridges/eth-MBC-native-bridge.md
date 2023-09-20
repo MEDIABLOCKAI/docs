@@ -24,9 +24,9 @@ This works by listening to the \`RewardedOnCycle\` event emitted by the BlockRew
 
 ## Contracts
 
-Home side of the bridge on the Media Block Network Coin network: [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://MBCscan.com/address/0xd617774b9708F79187Dc7F03D3Bdce0a623F6988/transactions)
+Home side of the bridge on the Media Block Network Coin network: [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://mediablock.ai/address/0xd617774b9708F79187Dc7F03D3Bdce0a623F6988/transactions)
 
-Foreign side of the bridge on the Ethereum network: [0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95](https://MBCscan.com/address/0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95/transactions)
+Foreign side of the bridge on the Ethereum network: [0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95](https://mediablock.ai/address/0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95/transactions)
 
 Media Block Network Coin token on the Ethereum network: [0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
 

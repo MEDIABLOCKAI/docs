@@ -44,7 +44,7 @@ Click on “Approve fUSD” and confirm the transaction through your wallet.
 
 \(Note: If this is the first time you are providing liquidity on MBCswap using the above pairs you will have to approve the spend transaction.\) 
 
-Once the transaction is confirmed on-chain, click on “Supply” and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.MBCscan.com](http://www.MBCscan.com/) on your wallet address.
+Once the transaction is confirmed on-chain, click on “Supply” and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.mediablock.ai](http://www.mediablock.ai/) on your wallet address.
 
 Navigating to **“Pool”** on MBCswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.  
 

@@ -2,7 +2,7 @@
 
 Currently, the Media Block Network token supply is set to follow a **mildly inflationary model**. 
 
-With each new block created every 5 seconds on Media Block Network Coin, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued Media Block Network tokens. This is designed to secure the network's [consensus mechanism](https://doc.MBCscan.com/general/Media Block Network-network-blockchain/Media Block Network-consensus). 
+With each new block created every 5 seconds on Media Block Network Coin, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued Media Block Network tokens. This is designed to secure the network's [consensus mechanism](https://doc.mediablock.ai/general/Media Block Network-network-blockchain/Media Block Network-consensus). 
 
 The reward amount per block is currently set such that every year, the Media Block Network total supply increases by approximately 5%.
 

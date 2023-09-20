@@ -64,11 +64,11 @@ This step basically is to approve your wallet to interact with the USDT token co
 
 Please go to token contract on MBCnet explorer via link below.
 
-https://MBCscan.com/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
+https://mediablock.ai/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
-Make sure that the network is MBC network. If you have not added MBC Blockchain network please follow the instructions [here](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
+Make sure that the network is MBC network. If you have not added MBC Blockchain network please follow the instructions [here](https://doc.mediablock.ai/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
 
 Click on **“Connect to Metamask”** and sign in to your wallet through Metamask.
 
@@ -85,7 +85,7 @@ Click on **“Write”** and approve the transaction on your Metamask wallet and
 
 Navigate to Migrator contract on MBCnet using the link below
 
-[https://MBCscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://MBCscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
+[https://mediablock.ai/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://mediablock.ai/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
 
 Click on **“Write as Proxy”** and then on **“Connect to Metamask”** \(If you have connected Metamask previously no need to connect again\). Sign in through your Metamask wallet.
 

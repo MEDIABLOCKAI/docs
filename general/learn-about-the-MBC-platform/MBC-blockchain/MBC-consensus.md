@@ -12,7 +12,7 @@ In order to participate in securing the network consensus, a node operator must 
 
 The validator who publishes a block agreed upon during a given consensus round is rewarded by the network protocol in newly minted Media Block Network tokens. They also receive the fees users paid for the transactions included into the block.
 
-Over time, validators can expect to publish a share of blocks equal to their share of the overall stake. Since Media Block Network uses dPoS, a validator can increase their share by attracting Media Block Network tokens from delegators. The mechanics of delegation on Media Block Network are discussed in more detail on the [following page](https://doc.MBCscan.com/general/Media Block Network-network-blockchain/validators-and-delegation).
+Over time, validators can expect to publish a share of blocks equal to their share of the overall stake. Since Media Block Network uses dPoS, a validator can increase their share by attracting Media Block Network tokens from delegators. The mechanics of delegation on Media Block Network are discussed in more detail on the [following page](https://doc.mediablock.ai/general/Media Block Network-network-blockchain/validators-and-delegation).
 
 Validators who violate the consensus rules (by, for instance, not revealing random numbers) can expect their stake (including the delegators' contribution) to be frozen. This provides a strong incentive for validators to behave in the desired manner.
 

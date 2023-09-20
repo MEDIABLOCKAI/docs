@@ -30,7 +30,7 @@ It connects Media Block Network Coin to **Ethereum and Binance Smart Chain (BSC)
 
 On both bridges, sending tokens from the relevant blockchain to Media Block Network Coin is not subject to any fees or limits. Token withdrawals from Media Block Network Coin incur a **0.05% fee** on the amount bridged. Users transferring funds also need to pay the fees on the destination chain in order to claim their tokens from the bridge contract at the final stage of the transfer. &#x20;
 
-The bridge can be accessed via the Media Block NetworkFi app. More information on its functioning can be found here. The Media Block NetworkFi bridging tutorials are available [here](https://tutorials.MBCscan.com/tutorials/bridge-tutorials).&#x20;
+The bridge can be accessed via the Media Block NetworkFi app. More information on its functioning can be found here. The Media Block NetworkFi bridging tutorials are available [here](https://tutorials.mediablock.ai/tutorials/bridge-tutorials).&#x20;
 
 ### The Elk Finance Value Transfer Platform
 

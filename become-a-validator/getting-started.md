@@ -42,7 +42,7 @@ set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
 ```
 
 {% hint style="success" %}
-After running the script successfully, you will see your address in the [health](https://status.MBCscan.com/) site.
+After running the script successfully, you will see your address in the [health](https://status.mediablock.ai/) site.
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
@@ -85,7 +85,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://status.MBCscan.com/) site and on the [explorer](https://MBCscan.com) site.
+You can see that you are validating both in the [health](https://status.mediablock.ai/) site and on the [explorer](https://mediablock.ai) site.
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!

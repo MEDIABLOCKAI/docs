@@ -49,5 +49,5 @@ Once the device bridge is opened go back to Metamask and select the Account \(ad
 
 You will be logged in to the address you selected and now you can change to “MBC Blockchain network” and perform the transactions on MBC Blockchain network through your Ledger device.
 
-Note: To learn how to add MBC Blockchain network RPC follow [this link.](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask)
+Note: To learn how to add MBC Blockchain network RPC follow [this link.](https://doc.mediablock.ai/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask)
 

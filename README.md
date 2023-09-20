@@ -12,5 +12,5 @@ Welcome to the go-to portal for in-depth information about the MBC Blockchain (M
 
 {% hint style="info" %}
 Join our [Telegram group](https://t.me/)\
-Or say hello at: hello@MBCscan.com
+Or say hello at: hello@mediablock.ai
 {% endhint %}

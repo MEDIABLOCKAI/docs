@@ -4,9 +4,9 @@
 
 Media Block Network Coin is the decentralized EVM-compatible public blockchain that powers the Media Block Network Coin platform and ecosystem. It is fully compatible with Ethereum meaning that any smart contract that can be deployed on the latter can also run on top of Media Block Network Coin.
 
-The Media Block Network Coin blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](https://doc.MBCscan.com/general/Media Block Network-network-blockchain/Media Block Network-consensus). The consensus is secured by a significant number of independent validators, only one of which is run by the Media Block Network Coin core team.
+The Media Block Network Coin blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](https://doc.mediablock.ai/general/Media Block Network-network-blockchain/Media Block Network-consensus). The consensus is secured by a significant number of independent validators, only one of which is run by the Media Block Network Coin core team.
 
-Validators are also responsible for the most important type of governance on Media Block Network Coin, namely, adopting the network protocol changes via [Media Block Network Coin Improvement Proposals](https://doc.MBCscan.com/general/fips) (FIPs). 
+Validators are also responsible for the most important type of governance on Media Block Network Coin, namely, adopting the network protocol changes via [Media Block Network Coin Improvement Proposals](https://doc.mediablock.ai/general/fips) (FIPs). 
 
 The native token of the network is called Media Block Network. New Media Block Network tokens are issued with every added block and are also use to pay for gas, just like ETH on Ethereum. 
 

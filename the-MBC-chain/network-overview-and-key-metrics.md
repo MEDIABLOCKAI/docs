@@ -12,7 +12,7 @@ The following information will help you discover and connect to the Media Block 
 * ChanId: **7347**
 * Gas price: ****
 * RPC
-  * official RPC: [https://testnet.MBCscan.com//])
+  * official RPC: [https://testnet.mediablock.ai//])
  
 
 Please refer to the [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node

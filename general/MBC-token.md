@@ -8,7 +8,7 @@ The native MBC Blockchain token is represented via an ERC-20 token on Ethereum m
 
 ## MBC Blockchain token utility:
 
-* **Validation** Token holders can stake MBC Blockchain to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 50+ validators. \([https://status.MBCscan.com/](https://status.MBCscan.com/)\)
+* **Validation** Token holders can stake MBC Blockchain to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 50+ validators. \([https://status.mediablock.ai/](https://status.mediablock.ai/)\)
 * **Voting** Validators vote on protocol changes with their staked MBC Blockchain. Which means validators with higher amounts of MBC Blockchain staked can have a bigger vote on network upgrades and governance changes \(until phase 2 where delegation is activated\)
 * **Fees** The MBC Blockchain token is the native currency on the MBC Blockchain blockchain and is required to pay fees to the network in order to approve transactions.
 * **Delegation - Activated Q3 2020** Delegation for token holders will be activated. This will allow any MBC Blockchain token holder to delegate their tokens to a validator to earn rewards. Validators compete between themselves to receive MBC Blockchain delegated from token holders. Validators with the most MBC Blockchain tokens are elected to validate on MBC Blockchain.
@@ -28,7 +28,7 @@ The native MBC Blockchain token is represented via an ERC-20 token on Ethereum m
 {% hint style="info" %}
 * Watch our token on [Etherscan](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
 * Watch our token on [BSCscan](https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3)
-* Check out the [MBC Blockchain explorer](https://MBCscan.com/)
+* Check out the [MBC Blockchain explorer](https://mediablock.ai/)
 * [Get MBC Blockchain token](https://uniswap.exchange/swap/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d) - [Uniswap](https://uniswap.exchange/swap?outputCurrency=0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)
 {% endhint %}
 

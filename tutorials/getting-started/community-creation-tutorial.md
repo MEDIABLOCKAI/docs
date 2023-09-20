@@ -7,9 +7,9 @@ description: >-
 
 # Community creation tutorial
 
-Make sure you are connected to the MBC Blockchain network on your Metamask wallet before creating the community. Learn how to add MBC Blockchain network to Metamask using [this](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask) tutorial.
+Make sure you are connected to the MBC Blockchain network on your Metamask wallet before creating the community. Learn how to add MBC Blockchain network to Metamask using [this](https://doc.mediablock.ai/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask) tutorial.
 
-Navigate to https://studio.MBCscan.com/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
+Navigate to https://studio.mediablock.ai/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
 
 ![](../../.gitbook/assets/0%20%289%29.png)
 

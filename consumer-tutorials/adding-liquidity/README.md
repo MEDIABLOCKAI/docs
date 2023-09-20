@@ -7,7 +7,7 @@ description: We will learn on how to add liquidity to MBCswap on MBC/USDC pair.
 **Prerequisites:**
 
 * You should be connected to MBC Blockchain RPC.
-* USDC and MBC should be on MBC Blockchain network. To learn how to transfer them to MBC Blockchain network using MBCswap via Bridge please go through this [**tutorial**](https://doc.MBCscan.com/the-MBC-chain/token-bridges/transfer-MBC-using-bridge-on-MBCswap).
+* USDC and MBC should be on MBC Blockchain network. To learn how to transfer them to MBC Blockchain network using MBCswap via Bridge please go through this [**tutorial**](https://doc.mediablock.ai/the-MBC-chain/token-bridges/transfer-MBC-using-bridge-on-MBCswap).
 
 **Step 1:**
 
@@ -32,7 +32,7 @@ Click on **“Approve USDC”** and confirm the transaction through your wallet.
 
 \(Note: If this is the first time you are providing liquidity on MBCswap using the above pairs you will have to approve the spend transaction.\)
 
-Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.MBCscan.com](https://MBCscan.com/) on your wallet address.
+Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.mediablock.ai](https://mediablock.ai/) on your wallet address.
 
 Navigating to **“Pool”** on MBCswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.
 

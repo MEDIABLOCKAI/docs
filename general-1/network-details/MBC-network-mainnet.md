@@ -10,8 +10,8 @@
 * ChanId: **7347**
 * Gas price: ****
 * RPC
-  * official RPC: [https://testnet-rpc.MBCscan.com/])​
-* Explorer: [https://testnet.MBCscan.com//])​
+  * official RPC: [https://testnet-rpc.mediablock.ai/])​
+* Explorer: [https://testnet.mediablock.ai//])​
 
 
 

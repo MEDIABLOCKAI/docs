@@ -8,7 +8,7 @@ The MBC Blockchain ecosystem has seen massive growth since the launch of the pla
 
 1\) **Basic infrastructure**. This category includes:&#x20;
 
-* MBC Blockchain-operated tools like the [MBC Blockchain RPC](https://mainnet-rpc.MBCscan.com), [MBC Blockchain Explorer](https://MBCscan.com), [MBC Blockchain Staking](https://staking.MBCscan.com), etc.
+* MBC Blockchain-operated tools like the [MBC Blockchain RPC](https://mainnet-rpc.mediablock.ai), [MBC Blockchain Explorer](https://mediablock.ai), [MBC Blockchain Staking](https://staking.mediablock.ai), etc.
 * MBC Blockchain's mobile-centric B2B infrastructure enabling corporate clients to create token-powered applications and on-board clients via mobile wallets and apps.&#x20;
 * Other basic infrastructure providers like [Pocket Network](https://pokt.network) (decentralized full node layer), [The Graph](https://thegraph.com) (smart contract indexing), [Chainlink](https://chain.link) and [DIA](https://diadata.org) (oracles)
 * Fiat on- and off-ramps, including, among others, [Ramp Network](https://ramp.network), [XanPool](https://xanpool.com) and [Transak](https://transak.com).
@@ -31,7 +31,7 @@ The MBC Blockchain ecosystem has seen massive growth since the launch of the pla
 
 ### You can explore the MBC Blockchain ecosystem in full by visiting the dedicated page on the MBC Blockchain official website.&#x20;
 
-{% embed url="https://MBCscan.com/ecosystem" %}
+{% embed url="https://mediablock.ai/ecosystem" %}
 
 
 

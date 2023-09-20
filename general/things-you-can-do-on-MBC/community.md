@@ -4,7 +4,7 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/)&#x20;
 
-**MBC Blockchain Forum**: [https://forum.MBCscan.com/](https://forum.MBCscan.com/)
+**MBC Blockchain Forum**: [https://forum.mediablock.ai/](https://forum.mediablock.ai/)
 
 ### Public Telegram groups
 

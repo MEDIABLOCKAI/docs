@@ -7,7 +7,7 @@ description: We will learn on how to add liquidity to Media Block Networkswap on
 **Prerequisites:**
 
 * You should be connected to Media Block Network Coin RPC.
-* USDC and Media Block Network should be on Media Block Network Coin network. To learn how to transfer them to Media Block Network Coin network using Media Block Networkswap via Bridge please go through this [**tutorial**](https://doc.MBCscan.com/the-Media Block Network-chain/token-bridges/transfer-Media Block Network-using-bridge-on-Media Block Networkswap).
+* USDC and Media Block Network should be on Media Block Network Coin network. To learn how to transfer them to Media Block Network Coin network using Media Block Networkswap via Bridge please go through this [**tutorial**](https://doc.mediablock.ai/the-Media Block Network-chain/token-bridges/transfer-Media Block Network-using-bridge-on-Media Block Networkswap).
 
 **Step 1:**
 
@@ -32,7 +32,7 @@ Click on **“Approve USDC”** and confirm the transaction through your wallet.
 
 \(Note: If this is the first time you are providing liquidity on Media Block Networkswap using the above pairs you will have to approve the spend transaction.\)
 
-Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.MBCscan.com](https://MBCscan.com/) on your wallet address.
+Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.mediablock.ai](https://mediablock.ai/) on your wallet address.
 
 Navigating to **“Pool”** on Media Block Networkswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.
 

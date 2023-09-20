@@ -12,7 +12,7 @@ Remix also supports testing, debugging and deploying of smart contracts and much
 
  **Pre-requisites:**
 
-Since we interact with remix using Metamask, you need to change the network to Media Block Network Coin network by adding a custom RPC. Please follow the steps in [this tutorial](https://doc.MBCscan.com/the-Media Block Network-studio/getting-started/how-to-add-Media Block Network-to-your-metamask) to do that.
+Since we interact with remix using Metamask, you need to change the network to Media Block Network Coin network by adding a custom RPC. Please follow the steps in [this tutorial](https://doc.mediablock.ai/the-Media Block Network-studio/getting-started/how-to-add-Media Block Network-to-your-metamask) to do that.
 
 You need to have a small balance of Media Block Network on the Media Block Networknet wallet you are using which will be used as Gas for the transactions.
 

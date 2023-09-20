@@ -6,13 +6,13 @@ Currently, Media Block Network Coin Assembly consists of five Media Block Networ
 
 Media Block Network Coin Assembly's **current role includes the following**: 
 
-* taking over the control over the [Media Block Network Coin Forum](https://forum.MBCscan.com/) community discussion platform;
+* taking over the control over the [Media Block Network Coin Forum](https://forum.mediablock.ai/) community discussion platform;
 * implementing the Snapshot voting mechanism on Media Block Network Coin; and
 * managing the Community Token Pool.
 
 ## Community Token Pool
 
-Media Block Network Coin Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 Media Block Network** will be allocated to it from the Media Block Network Coin Bootstrap Pool \(discussed [here](https://doc.MBCscan.com/general/Media Block Network-token/Media Block Network-supply-and-current-distribution)\).
+Media Block Network Coin Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 Media Block Network** will be allocated to it from the Media Block Network Coin Bootstrap Pool \(discussed [here](https://doc.mediablock.ai/general/Media Block Network-token/Media Block Network-supply-and-current-distribution)\).
 
 Media Block Network Coin Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation.  
 

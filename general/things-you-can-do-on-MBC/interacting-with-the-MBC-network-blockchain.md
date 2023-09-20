@@ -2,7 +2,7 @@
 
 **Adding MBC Blockchain RPC**:&#x20;
 
-Please refer to the guide [here](https://doc.MBCscan.com/tutorials/getting-started/how-to-add-MBC-to-your-metamask).
+Please refer to the guide [here](https://doc.mediablock.ai/tutorials/getting-started/how-to-add-MBC-to-your-metamask).
 
 
 

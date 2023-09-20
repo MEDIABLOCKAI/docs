@@ -8,7 +8,7 @@ description: We will learn how to add liquidity on MBC-BNB pair on Pancakeswap.
 
 ·        You should be connected to Binance smart chain RPC. \([Tutorial link](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\)
 
-·        BNB and MBC should be on Binance smart chain network. To learn how to bridge them from MBC Blockchain network to BSC using MBCswap this [tutorial](https://doc.MBCscan.com/the-MBC-chain/token-bridges/transfer-MBC-using-bridge-on-MBCswap).
+·        BNB and MBC should be on Binance smart chain network. To learn how to bridge them from MBC Blockchain network to BSC using MBCswap this [tutorial](https://doc.mediablock.ai/the-MBC-chain/token-bridges/transfer-MBC-using-bridge-on-MBCswap).
 
 {% hint style="info" %}
 Note: Make sure you know about [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) before adding liquidity to a pool.

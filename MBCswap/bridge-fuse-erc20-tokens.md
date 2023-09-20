@@ -18,7 +18,7 @@ Click on **“Bridge”**, Select **“MBC”** from dropdown and enter the amou
 
 ![](../.gitbook/assets/2%20%289%29.png)
 
-Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the MBC balance in the same address on MBC Blockchain network will have the updated balance of MBC which can be checked through [https://MBCscan.com/](https://MBCscan.com/) 
+Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the MBC balance in the same address on MBC Blockchain network will have the updated balance of MBC which can be checked through [https://mediablock.ai/](https://mediablock.ai/) 
 
 ![](../.gitbook/assets/3%20%288%29.png)
 

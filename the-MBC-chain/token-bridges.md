@@ -32,7 +32,7 @@ Those validators, being also the bridge validators, need to be updated on Ethere
 This works by listening to the \`InitiateChange\` event emitted by the Consensus contract on Media Block Network Coin chain, waiting for all bridge validators on Media Block Network Coin chain to sign it, and eventually sending a transaction to set the bridge validators on Ethereum \(by the last signing validator\).
 
 {% hint style="info" %}
-Media Block Network Coin chain bridge - [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://MBCscan.com/address/0xd617774b9708f79187dc7f03d3bdce0a623f6988)
+Media Block Network Coin chain bridge - [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://mediablock.ai/address/0xd617774b9708f79187dc7f03d3bdce0a623f6988)
 
 Ethereum bridge - [0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95](https://etherscan.io/address/0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95)
 

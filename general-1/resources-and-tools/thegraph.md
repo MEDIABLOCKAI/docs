@@ -19,4 +19,4 @@ Subgraphs that builded and maintained by the MBC Blockchain team, deployed on MB
 
 ### MBC Blockchain Consensus
 
-on MBC Blockchain graph-node: [https://thegraph.MBCscan.com/subgraphs/name/MBCchain/MBC-consensus](https://thegraph.MBCscan.com/subgraphs/name/MBCchain/MBC-consensus)
+on MBC Blockchain graph-node: [https://thegraph.mediablock.ai/subgraphs/name/MBCchain/MBC-consensus](https://thegraph.mediablock.ai/subgraphs/name/MBCchain/MBC-consensus)

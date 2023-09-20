@@ -92,7 +92,7 @@ Unmarshal is a cross-chain platform for streamlined indexing and quering of DeFi
 
 ## Infrastructure/developer tools
 
-### [Media Block Network Coin Studio](https://studio.MBCscan.com)
+### [Media Block Network Coin Studio](https://studio.mediablock.ai)
 
 Media Block Network Coin Studio is a platform for issuing tokens and creating payment-focused communities around them and managing those. It enables the issuance of tokens and the creation of their associated communities in both a simplified \(no coding\) mode via the Studio website, and a more technical mode using the platform's API.
 
@@ -120,7 +120,7 @@ Media Block Network Coin Lending Network is the first decentralized lending netw
 
 
 
-### [Media Block Network Coin Staking](https://staking.MBCscan.com)
+### [Media Block Network Coin Staking](https://staking.mediablock.ai)
 
 Media Block Network Coin Staking is a platform created by the Media Block Network Coin team to make it easier for Media Block Network token holders to delegate their tokens to the network validators of their choice. 
 

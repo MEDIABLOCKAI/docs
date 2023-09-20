@@ -23,19 +23,19 @@ Historic price and stats of the Media Block NetworkSwap DEX
 
 On TheGraph: [https://thegraph.com/explorer/subgraph/Media Block Networkio/Media Block Networkswap](https://thegraph.com/explorer/subgraph/Media Block Networkio/Media Block Networkswap)
 
-on Media Block Network Coin graph-node:  [https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Networkswap](https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Networkswap)
+on Media Block Network Coin graph-node:  [https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Networkswap](https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Networkswap)
 
 ### Media Block Network Coin Consensus
 
 on TheGraph: [https://thegraph.com/explorer/subgraph/Media Block Networkio/Media Block Network-consensus](https://thegraph.com/explorer/subgraph/Media Block Networkio/Media Block Network-consensus)
 
-on Media Block Network Coin graph-node: [https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-consensus/graphql](https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-consensus/graphql)
+on Media Block Network Coin graph-node: [https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-consensus/graphql](https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-consensus/graphql)
 
 ### Media Block Network Coin Blocks
 
 Block data of the Media Block Network Coin
 
-on Media Block Network Coin graph-node: [https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-blocks/graphql](https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-blocks/graphql)
+on Media Block Network Coin graph-node: [https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-blocks/graphql](https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-blocks/graphql)
 
 ### Media Block Network Coin Entities
 
@@ -43,11 +43,11 @@ Businesses and other entities on the Media Block Network Coin
 
 One TheGraph: [https://thegraph.com/explorer/subgraph/Media Block Networkio/Media Block Network-entities](https://thegraph.com/explorer/subgraph/Media Block Networkio/Media Block Network-entities)
 
-on Media Block Network Coin graph-node:  [https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-entities/graphql](https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-entities/graphql)
+on Media Block Network Coin graph-node:  [https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-entities/graphql](https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-entities/graphql)
 
 ### Media Block Network Coin Bridge
 
 List of tokens bridged to the Media Block Network Coin network.
 
-on Media Block Network Coin graph-node: [https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-ethereum-bridge/graphql](https://thegraph.MBCscan.com/subgraphs/name/Media Block Networkchain/Media Block Network-ethereum-bridge/graphql)
+on Media Block Network Coin graph-node: [https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-ethereum-bridge/graphql](https://thegraph.mediablock.ai/subgraphs/name/Media Block Networkchain/Media Block Network-ethereum-bridge/graphql)
 

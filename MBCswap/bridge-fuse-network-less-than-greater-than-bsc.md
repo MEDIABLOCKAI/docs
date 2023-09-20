@@ -15,7 +15,7 @@ If you would like to watch the below tutorial through a video please follow [thi
 
 **Bridging tokens from MBC Blockchain network to BSC  
   
-Note:** Make sure you are connected to MBC network RPC. To learn how to add MBC Blockchain network RPC you can follow the tutorial [**here**](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
+Note:** Make sure you are connected to MBC network RPC. To learn how to add MBC Blockchain network RPC you can follow the tutorial [**here**](https://doc.mediablock.ai/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
 
 **Step 1:** Navigate to [https://MBCswap.com](https://MBCswap.com/) . The interface will look like as shown below  
 
@@ -26,11 +26,11 @@ Use the “Connect to a wallet” on the right hand top corner to connect your w
 
 ![](../.gitbook/assets/1%20%2814%29.png)
 
-**Step 2:** Click on “Bridge”. If you have “WETH \(Deprecated\)” when you click on the dropdown menu, then please follow the [**tutorial here**](https://doc.MBCscan.com/MBCswap/migration-tutorial) to learn how to migrate to the upgraded contract of WETH. Select “WETH” from the dropdown menu and enter the amount of WETH you want to transfer from MBC Blockchain to BSC. Click on “Approve WETH” and approve the transaction on Metamask. Once you approve and the transaction is confirmed on-chain the interface will look as shown below.
+**Step 2:** Click on “Bridge”. If you have “WETH \(Deprecated\)” when you click on the dropdown menu, then please follow the [**tutorial here**](https://doc.mediablock.ai/MBCswap/migration-tutorial) to learn how to migrate to the upgraded contract of WETH. Select “WETH” from the dropdown menu and enter the amount of WETH you want to transfer from MBC Blockchain to BSC. Click on “Approve WETH” and approve the transaction on Metamask. Once you approve and the transaction is confirmed on-chain the interface will look as shown below.
 
 ![](../.gitbook/assets/2%20%2814%29.png)
 
-Click on “Transfer” and approve the transaction. Once this transaction is confirmed on-chain, the WETH balance will be moved to the bridge and you will receive the WETH on your address on BSC. The transaction can be tracked on [https://bscscan.com.](https://MBCscan.com/)
+Click on “Transfer” and approve the transaction. Once this transaction is confirmed on-chain, the WETH balance will be moved to the bridge and you will receive the WETH on your address on BSC. The transaction can be tracked on [https://bscscan.com.](https://mediablock.ai/)
 
 ![](../.gitbook/assets/3%20%2812%29.png)
 
@@ -50,7 +50,7 @@ Use the “Connect to a wallet” on the right hand top corner to connect your w
 Select WETH from the dropdown menu and enter the amount of WETH you want to transfer from BSC to MBC Blockchain. Click on “Transfer” and approve the transaction on Metamask. Click on “Approve WETH” and approve the transaction on Metamask.
 
 {% hint style="info" %}
-**Note: The contract address of WETH on BSC is 0x2170ed0880ac9a755fd29b2688956bd959f933f8. If you do not find the token ticker of the token you are trying to bridge from BSC to MBC network, Please find out the right contract address from** [**https://bscscan.com.**](https://MBCscan.com/)\*\*\*\*
+**Note: The contract address of WETH on BSC is 0x2170ed0880ac9a755fd29b2688956bd959f933f8. If you do not find the token ticker of the token you are trying to bridge from BSC to MBC network, Please find out the right contract address from** [**https://bscscan.com.**](https://mediablock.ai/)\*\*\*\*
 {% endhint %}
 
 ![](../.gitbook/assets/6%20%289%29.png)
@@ -59,5 +59,5 @@ Select WETH from the dropdown menu and enter the amount of WETH you want to tran
 
 Once the transaction is confirmed on-chain, the “Transfer” button can be clicked and transaction has to be approved, and once this second transaction is confirmed on-chain, the WETH balance on the same address on MBC Blockchain network will be credited with the WETH tokens.
 
-The updated WETH balance on MBC Blockchain network can be checked through MBC Blockchain network block explorer [https://MBCscan.com](https://MBCscan.com/).
+The updated WETH balance on MBC Blockchain network can be checked through MBC Blockchain network block explorer [https://mediablock.ai](https://mediablock.ai/).
 

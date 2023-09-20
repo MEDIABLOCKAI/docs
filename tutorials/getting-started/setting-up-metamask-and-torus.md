@@ -44,7 +44,7 @@ Copy your **wallet address**
 Paste the **wallet address** in the field and press **send me test Ether**
 {% endhint %}
 
-**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ MBC Blockchain studio](https://studio.MBCscan.com/) which you can also navigate to from the main page of the MBC Blockchain website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Metamask** and vualá!
+**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ MBC Blockchain studio](https://studio.mediablock.ai/) which you can also navigate to from the main page of the MBC Blockchain website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Metamask** and vualá!
 
 ![](https://lh5.googleusercontent.com/0bo-JxSCMa3LP66hYzyAItVUDHX6Bng0pLRSCZ7t7jBzSRoiASxj8wOveupcy4km_3Q5AWQJhZY_Neb7HNhHc3PbyJgKXKvEswVZCPzQBH-yfl_bf3n9cmwaJVkfybitcg9sEIUS)
 
@@ -68,17 +68,17 @@ Click **connect**
 
 {% hint style="danger" %}
 * **Network name:** MBC Blockchain
-* **New RPC URL:**[ ****https://mainnet-rpc.MBCscan.com](https://mainnet-rpc.MBCscan.com)
+* **New RPC URL:**[ ****https://mainnet-rpc.mediablock.ai](https://mainnet-rpc.mediablock.ai)
 * **ChainID:** 39656
 * **Symbol:** MBC
-* **Block Explorer URL:**[ ****https://MBCscan.com](https://MBCscan.com)
+* **Block Explorer URL:**[ ****https://mediablock.ai](https://mediablock.ai)
 {% endhint %}
 
 After doing so, **do not** **switch** to this new **custom network** just yet. It will be needed **after** you issue your community and tokens, inside the MBC Blockchain Studio.
 
 ![](https://lh5.googleusercontent.com/KlXdb_8hyTW65TRu1ihO5cFbzAYxcBAf1Z45LosvVnJhOWKMcXdB9MyyaLAs9EoL68pSGh3dVapNFezkBywQWRXU6IRYZE0LuAOG3Pk6b2y0pQTIwOnKt-uo-cmZW8cZgAV6spDx)
 
-**Step 6 -** Ready, set, launch! You are ready to **create your own community** on MBC Blockchain studio! Simply press the [**launch your community**](https://studio.MBCscan.com/view/issuance) ****action button to begin the process. 
+**Step 6 -** Ready, set, launch! You are ready to **create your own community** on MBC Blockchain studio! Simply press the [**launch your community**](https://studio.mediablock.ai/view/issuance) ****action button to begin the process. 
 
 ![](https://lh6.googleusercontent.com/e2Sgm9XCIfxrttDx_NkGiyV1-pE4SQHjxCZ_aISU2rAdusMJuPKbEqrANhQngoiABoXaUWdSz046OTyz9fnMI1AE6Zo8R2DsX31fZ73E_n3-bHSkCjmAIvApT-VUe6z7Gttu_JYe)
 
@@ -120,7 +120,7 @@ Copy your **wallet address**
 Paste the **wallet address** in the field and press **send me test Ether**
 {% endhint %}
 
-**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ MBC Blockchain studio](https://studio.MBCscan.com/) which you can also navigate to from the main page of the MBC Blockchain website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Torus**.
+**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ MBC Blockchain studio](https://studio.mediablock.ai/) which you can also navigate to from the main page of the MBC Blockchain website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Torus**.
 
 ![](https://lh5.googleusercontent.com/0bo-JxSCMa3LP66hYzyAItVUDHX6Bng0pLRSCZ7t7jBzSRoiASxj8wOveupcy4km_3Q5AWQJhZY_Neb7HNhHc3PbyJgKXKvEswVZCPzQBH-yfl_bf3n9cmwaJVkfybitcg9sEIUS)
 
@@ -138,7 +138,7 @@ Choose **Torus**
 
 {% hint style="danger" %}
 * **Network name:** MBC Blockchain
-* **New RPC URL:**[ ****https://mainnet-rpc.MBCscan.com](https://mainnet-rpc.MBCscan.com)
+* **New RPC URL:**[ ****https://mainnet-rpc.mediablock.ai](https://mainnet-rpc.mediablock.ai)
 * **ChainID:** 39656
 {% endhint %}
 
@@ -148,7 +148,7 @@ Make sure to have the network settings on '**Ropsten Test Network'** for testing
 
 ![](../../.gitbook/assets/screenshot-2020-07-31-at-18.47.23.png)
 
-**Step 6 -** Ready, set, launch! You are ready to **create your own community** on MBC Blockchain studio! Simply press the [launch you community](https://studio.MBCscan.com/view/issuance) ****action button to begin the process.
+**Step 6 -** Ready, set, launch! You are ready to **create your own community** on MBC Blockchain studio! Simply press the [launch you community](https://studio.mediablock.ai/view/issuance) ****action button to begin the process.
 
 ![](https://lh6.googleusercontent.com/e2Sgm9XCIfxrttDx_NkGiyV1-pE4SQHjxCZ_aISU2rAdusMJuPKbEqrANhQngoiABoXaUWdSz046OTyz9fnMI1AE6Zo8R2DsX31fZ73E_n3-bHSkCjmAIvApT-VUe6z7Gttu_JYe)
 

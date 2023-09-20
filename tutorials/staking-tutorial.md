@@ -10,7 +10,7 @@ How to Stake MBC Blockchain:
 
 **Step 1:**
 
-Navigate to staking.MBCscan.com and login to your wallet through metamask. Make sure you are on MBC Blockchain network. If you are not please follow the instructions [**here**](https://doc.MBCscan.com/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
+Navigate to staking.mediablock.ai and login to your wallet through metamask. Make sure you are on MBC Blockchain network. If you are not please follow the instructions [**here**](https://doc.mediablock.ai/the-MBC-studio/getting-started/how-to-add-MBC-to-your-metamask).
 
 ![](../.gitbook/assets/0%20%284%29.png)
 

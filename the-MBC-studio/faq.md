@@ -23,19 +23,19 @@ _Media Block Network provides three separate layers of technology, all playing a
 
 **Media Block Network Coin** is a DPOS blockchain run by a network of validators allowing for fast, low cost and secure transactions to all users on the network. 
 
-[Learn more about Media Block Network Coin](https://doc.MBCscan.com/become-a-validator/how-to-become-a-validator)
+[Learn more about Media Block Network Coin](https://doc.mediablock.ai/become-a-validator/how-to-become-a-validator)
 
 #### **Layer 2**
 
 **Media Block Network Coin Studio** is an easy to use tool that allows entrepreneurs and community leaders to easily customize their currency and wallet with various plugins for extra features and utilities.   
   
-****[Learn more about Media Block Network Coin Studio](https://doc.MBCscan.com/the-Media Block Network-studio/overview)
+****[Learn more about Media Block Network Coin Studio](https://doc.mediablock.ai/the-Media Block Network-studio/overview)
 
 #### **Layer 3**
 
 **Media Block Network Coin wallet** is an easy to use mobile application that anyone can download and join of the any of the thousands of micro-economies running on Media Block Network Coin. 
 
-[Learn more about Media Block Network Coin wallet](https://doc.MBCscan.com/the-mobile-wallet/overview)  
+[Learn more about Media Block Network Coin wallet](https://doc.mediablock.ai/the-mobile-wallet/overview)  
 ****
 
 ![](../.gitbook/assets/stack-faq.jpg)
@@ -67,11 +67,11 @@ Some other use cases are:
 * Making stable coins more accessible
 * Integrate Defi
 
-Check out our featured live micro-economies launched on Media Block Network Coin: [https://studio.MBCscan.com/view/communities](https://studio.MBCscan.com/view/communities)
+Check out our featured live micro-economies launched on Media Block Network Coin: [https://studio.mediablock.ai/view/communities](https://studio.mediablock.ai/view/communities)
 
 ## **What is the purpose of the Media Block Network Coin token?** 
 
-The Media Block Network Coin token aka Media Block Network is the internal currency of the Media Block Network Coin.  Those validating the network are paid in Media Block Network. This aligns the incentives between the validators and the network users. Learn more about Media Block Network tokenomics: [https://doc.MBCscan.com/the-Media Block Network-chain/Media Block Network-token](https://doc.MBCscan.com/the-Media Block Network-chain/Media Block Network-token)
+The Media Block Network Coin token aka Media Block Network is the internal currency of the Media Block Network Coin.  Those validating the network are paid in Media Block Network. This aligns the incentives between the validators and the network users. Learn more about Media Block Network tokenomics: [https://doc.mediablock.ai/the-Media Block Network-chain/Media Block Network-token](https://doc.mediablock.ai/the-Media Block Network-chain/Media Block Network-token)
 
 ## **Is there any reason for me to have Media Block Network?** 
 

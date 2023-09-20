@@ -11,7 +11,7 @@ MetaMask is an Ethereum wallet that runs as a Chrome extension, it allows users 
 3. Change the network selector on the top of the wallet to **Ropsten network**
 4. Go to Ropsten Ether Faucet - [here](https://faucet.ropsten.be/)
 5. Paste your address in the text field to get some ETH on Ropsten.
-6. Go to the [MBC Blockchain studio](https://studio-qa.MBCscan.com/) and start to explore
+6. Go to the [MBC Blockchain studio](https://studio-qa.mediablock.ai/) and start to explore
 
 
 
