@@ -33,7 +33,7 @@
 
 - [Network Details](general-1/network-details/README.md)
   - [MBC Blockchain Mainnet](general-1/network-details/MBC-network-mainnet.md)
-  - [MBC Blockchain Testnet MBC Blockchain](general-1/network-details/MBC-testnet.md)
+  - [MBC Blockchain Testnet ](general-1/network-details/MBC-testnet.md)
   - [Token Faucets](general-1/network-details/token-faucets.md)
 - [MBC Blockchain Consensus](general-1/MBC-consensus/README.md)
   - [Contracts Overview](general-1/MBC-consensus/contracts-overview.md)
