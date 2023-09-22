@@ -9,5 +9,3 @@ Media Block Network Coin is already a significantly decentralized platform and p
 Media Block Network Coin Foundation **employs the Media Block Network Coin project team** whose members' profiles can be found [#here].
 
 The project team implements network protocol updates adopted by the validators, other protocol changes that do not require validator votes, maintains the full node software. It develops the mobile-centric infrastructure for creating and managing token communities on Media Block Network Coin. It also works on boosting the adoption of the network through improving the Media Block Network Coin tech stack, securing new partnerships and integrations, onboarding ecosystem projects and marketing the platform within the crypto space and beyond.
-
-That said, since Media Block Network Coin is a decentralized public blockchain platform, **no permission of the project team is required** for anyone who wishes to integrate with or develop on top of Media Block Network Coin, including the development of the network and node software.
