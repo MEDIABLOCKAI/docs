@@ -10,7 +10,7 @@ The more communities and users conducting transactions, the more validators will
 
 [Any entity that is holding the MBC Blockchain token can run a node](https://github.com/MEDIABLOCKAI/validator-setup) that approves transaction in the network and in doing so receive rewards in the form of MBC Blockchain token (MBC).
 
-Validators are running special software that holds a copy of the MBC Blockchain blockchain and validating transactions in the network.
+Validators are running special software that holds a copy of the MBC Blockchain and validating transactions in the network.
 
 Every 5 seconds, the network groups the latest transactions broadcasted to the system, validates them and signs them so they could never be changed in the future.
 
