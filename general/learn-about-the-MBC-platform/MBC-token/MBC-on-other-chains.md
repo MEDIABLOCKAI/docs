@@ -8,16 +8,16 @@ Currently, wrapped versions of Media Block Network token exist on Ethereum (main
 
 ### Media Block Network on Ethereum
 
-Token contract: [https://etherscan.io/token/<contract>](https://etherscan.io/token/<contract>)
+Token contract: [https://etherscan.io/token/<contract>]
 
 ### Media Block Network on Polygon
 
-Token contract: [https://polygonscan.com/address/<contract>](https://polygonscan.com/address/<contract>)
+Token contract: [https://polygonscan.com/address/<contract>]
 
 ### Media Block Network on Binance Smart Chain
 
-Token contract: [https://bscscan.com/address/<contract>](https://bscscan.com/address/<contract>)
+Token contract: [https://bscscan.com/address/<contract>]
 
 ### Media Block Network on Arbitrum One
 
-Token contract: [https://arbiscan.io/token/<contract>](https://arbiscan.io/token/<contract>)
+Token contract: [https://arbiscan.io/token/<contract>]

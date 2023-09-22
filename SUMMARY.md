@@ -23,7 +23,7 @@
   - [Wallets supporting MBC Blockchain](general/learn-about-the-MBC-platform/wallets-supporting-MBC-network.md)
 - [MBC Blockchain for Business](general/MBC-for-business.md)
 - [Things you can do on MBC Blockchain](general/things-you-can-do-on-MBC/README.md)
-  - [Interacting with the MBC Blockchain Blockchain](general/things-you-can-do-on-MBC/interacting-with-the-MBC-network-blockchain.md)
+  - [Interacting with the MBC Blockchain](general/things-you-can-do-on-MBC/interacting-with-the-MBC-network-blockchain.md)
   - [MBC Blockchain Ecosystem](general/things-you-can-do-on-MBC/MBC-ecosystem.md)
   - [Community](general/things-you-can-do-on-MBC/community.md)
   - [Grants and Bounties](general/things-you-can-do-on-MBC/grants-and-bounties.md)
@@ -34,7 +34,7 @@
 - [Network Details](general-1/network-details/README.md)
   - [MBC Blockchain Mainnet](general-1/network-details/MBC-network-mainnet.md)
   - [MBC Blockchain Testnet MBC Blockchain](general-1/network-details/MBC-testnet.md)
-  - [Token Faucets](general-1/network-details/token-faucets.md)S
+  - [Token Faucets](general-1/network-details/token-faucets.md)
 - [MBC Blockchain Consensus](general-1/MBC-consensus/README.md)
   - [Contracts Overview](general-1/MBC-consensus/contracts-overview.md)
   - [Stake, Delegate and Withdraw](general-1/MBC-consensus/stake-delegate-and-withdraw.md)
@@ -49,11 +49,11 @@
 
 ## Links
 
-- [Discord](https://discord.com/)
-- [Facebook](https://www.facebook.com/)
-- [GitHub](https://github.com/)
-- [LinkedIn](https://www.linkedin.com/company//)
-- [Medium](https://medium.com/)
-- [Telegram](https://t.me/)
-- [Twitter](https://twitter.com/)
-- [YouTube](https://www.youtube.com)
+- [Discord](https://discord.com/invite/WUgCfBmt)
+- [Facebook]()
+- [GitHub](https://github.com/MEDIABLOCKAI)
+- [LinkedIn]()
+- [Medium]()
+- [Telegram](https://t.me/mediablock_official)
+- [Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2Fmblock_official)
+- [YouTube]()

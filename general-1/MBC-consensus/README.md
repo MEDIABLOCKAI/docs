@@ -2,7 +2,7 @@
 
 Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Media Block Network Coin network is using a [Delegated Proof of Stake](https://en.bitcoinwiki.org/wiki/DPoS) (DPoS) consensus model. DPoS is a variation of [Proof of Stake](https://en.bitcoinwiki.org/wiki/Proof-of-stake) consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
-![](<../../.gitbook/assets/image (3).png>)
+![]()
 
 Consensus contract is used to manage the list of the network validators and delegators
 
@@ -12,7 +12,7 @@ With Voting contract validators are vote on various changes on these 3 base leve
 
 The bridge is used to transfer the Media Block Network Coin native token between Media Block Network Coin and Ethereum networks.&#x20;
 
-## [Consensus - 0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95](https://mediablock.ai/address/0x37B862ACc9482A80DeebE301e43A4d3959F1Ef95)
+## [Consensus - 0xC48b6EAECd49959235dE3DE5C73974079d2Be325](https://testnet.mediablock.ai/address/0xC48b6EAECd49959235dE3DE5C73974079d2Be325)
 
 This contract is responsible for handling the network DPos consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
 
@@ -26,7 +26,7 @@ minimum stake amount = 100,000 Media Block Network Coin token
 
 cycle duration blocks = 57600 (approximately 2 days)
 
-## [Block Reward - 0x7059164Fe471f0410B8a2CF5d960E9B3DC0d0F7F](https://mediablock.ai/address/0x7059164Fe471f0410B8a2CF5d960E9B3DC0d0F7F)
+## [Block Reward - 0xF3f4A70EE8cFE0A1F28B59B2d85c505c1d32bcbB](https://testnet.mediablock.ai/address/0xF3f4A70EE8cFE0A1F28B59B2d85c505c1d32bcbB)
 
 This contract is responsible for generating and distributing block rewards to the network validators according to the network specs (5% yearly inflation).
 
@@ -34,7 +34,7 @@ Another role of this contract is to call the snapshot/cycle logic on the Consens
 
 This contract is based on `BlockReward` [described in Parity Wiki](https://wiki.parity.io/Block-Reward-Contract).
 
-## [Voting - 0x23a0f3370F7dCc4203c3F7f588856f388F3274e8](https://mediablock.ai/address/0x23a0f3370F7dCc4203c3F7f588856f388F3274e8)
+## [Voting - \*\*\*\*]()
 
 This contract is responsible for opening new ballots and voting to accept/reject them. Ballots are basically offers to change other network contracts implementation.
 
@@ -50,7 +50,6 @@ minimum ballot duration (cycles) = 2
 
 maximum ballot duration (cycles) = 14
 
-## [Proxy Storage](https://mediablock.ai/address/0x258aAF236D185119e363b941d232F76bDbe9B61D)
+## [Proxy Storage]()
 
 This contract is responsible for holding network contracts implementation addresses and upgrading them if necessary (via voting).
-
