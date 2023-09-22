@@ -1,5 +1,3 @@
-# Network Details
-
 ### Testnet
 
 - Network name: **MBC**

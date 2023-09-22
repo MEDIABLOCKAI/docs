@@ -54,12 +54,12 @@ The [Multichain](https://multichain.org) (formerly Anyswap) bridge is one of the
 
 Multichain has already enabled transfers for **Media Block Network Coin’s native Media Block Network token** between the Media Block Network Coin blockchain and Ethereum, BNB Chain (formerly Binance Smart Chain) and Polygon. **WETH and USDC** transfers via Multichain are available between Media Block Network Coin and Ethereum. Beefy Finance’s **BIFI token** can be bridged to and from almost all the networks that Multichain supports. The **agEUR** stablecoin can be transferred between Media Block Network Coin and Ethereum, BNB Chain, Fantom, Harmony and Avalanche.&#x20;
 
-The bridge interface is accessible [here](https://app.multichain.org/#/router). &#x20;
+The bridge interface is accessible [#here];
 
 ### The ChainPort Bridge
 
 ChainPort's bridges are permissionless. This means that anyone can bridge a token from Ethereum to any other supported chain (including Media Block Network Coin), even if the token has not been ported, yet.
 
-In addition to Media Block Network Coin, the list of chains added to ChainPort includes **Ethereum, BSC, Polygon and Avalanche**. The bridge interface can be found [here](https://app.chainport.io/).&#x20;
+In addition to Media Block Network Coin, the list of chains added to ChainPort includes **Ethereum, BSC, Polygon and Avalanche**. The bridge interface can be found [#here];
 
 **IMPORTANT!!!** Please note that ChainPort currently only supports transfers of tokens that originate on the Ethereum mainnet. Also, ChainPort's wrappers on Media Block Network Coin for the **popular Ethereum-originating tokens such as USDC, WETH, USDT, etc**. will by design be different from the currently existing ones that were created using the Media Block NetworkFi bridge. **We currently do not recommend users to bridge those tokens to Media Block Network Coin using ChainPort**. &#x20;
