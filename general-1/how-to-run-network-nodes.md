@@ -2,4 +2,4 @@
 
 ## Run Local Node
 
-Read more at: [https://github.com/MBCchain001/CoinNetwork/tree/master/node-example](https://github.com/MBCchain001/CoinNetwork/tree/master/node-example)
+Read more at: [https://github.com/MEDIABLOCKAI/validator-setup](https://github.com/MEDIABLOCKAI/validator-setup)

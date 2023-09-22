@@ -34,7 +34,7 @@ Another role of this contract is to call the snapshot/cycle logic on the Consens
 
 This contract is based on `BlockReward` [described in Parity Wiki](https://wiki.parity.io/Block-Reward-Contract).
 
-## [Voting - \*\*\*\*]()
+## [Voting - 0x26a48c9D3A8C90132B2Ab5904850679F157b7991]()
 
 This contract is responsible for opening new ballots and voting to accept/reject them. Ballots are basically offers to change other network contracts implementation.
 
@@ -50,6 +50,6 @@ minimum ballot duration (cycles) = 2
 
 maximum ballot duration (cycles) = 14
 
-## [Proxy Storage]()
+## [Proxy Storage - 0x0DfD2e7fffCA07655e3F5600dC53e0D8cF0B7D98]()
 
 This contract is responsible for holding network contracts implementation addresses and upgrading them if necessary (via voting).
