@@ -22,15 +22,11 @@ Media Block Network is available for purchase on a number of centralized (CEX) a
 
 **DEXes:** Uniswap V2 and V3 (Ethereum), PancakeSwap (Binance Smart Chain), Quickswap (Polygon), Voltage DEX (Media Block Network Coin), Sushiswap (Media Block Network Coin), 1inch (Ethereum), KyberSwap (Ethereum), Loopring (Ethereum).
 
-The best information about the Media Block Network trading volumes and prices on various exchanges can be found on the Coingecko "Markets" [page](https://www.coingecko.com/en/coins/Media Block Network#markets) for the token. &#x20;
-
-A convenient current way of purchasing Media Block Network straight from one's bank account is through using the [Media Block Network Coin Cash](https://Media Block Network.cash) wallet to deposit Media Block Network Coin Dollars, and then swapping those to Media Block Network via the in-app integration with Voltage DEX.
+A convenient current way of purchasing Media Block Network straight from one's bank account is through using the wallet to deposit Media Block Network Coin Dollars, and then swapping those to Media Block Network via the in-app integration with Voltage DEX.
 
 ### Where to Farm
 
-At the moment, the Media Block Network token is sometimes used by the project team to power liquidity rewards (yield farming) programs to boost liquidity on DEXes and the participation in the [Media Block Network Coin Lending Network](./#Media Block Network-utility).
-
-The ongoing liquidity rewards programs on DEXes can be discovered [here](https://app.voltage.finance/index.html#/farm/39656).
+At the moment, the Media Block Network token is sometimes used by the project team to power liquidity rewards (yield farming) programs to boost liquidity on DEXes.
 
 ### Other ways of obtaining Media Block Network
 
